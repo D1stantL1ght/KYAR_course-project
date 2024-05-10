@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="russian">
+    <head>
+        <link rel="stylesheet" href="scss/style.css">
+        <script src="js/script.js"></script>
+        <title>TEA TOAD</title>     
+    </head>
+    <body>
+        <header id="headid">
+            <div class="header_content">
+            <a href="main.html" class="logo_link"><img src="files/LOGO circle.svg" class="main_logo header_contents">
+                <h1 class="logo_text header_contents">TEA TOAD</h1></a>
+            <div class="searchbar header_contents">
+                <input type="text" class="search_text header_contents" placeholder="ПОИСК"></input>
+                <img src="files/search.png" class="search_logo header_contents">
+    
+            </div>
+            <div class="number_block header_contents">
+                <span class="header_numbers ">+375 (33) 624-17-08</span>
+                <span class="header_numbers">+375 (33) 624-17-08</span>
+                <span class="header_numbers">+375 (33) 624-17-08</span>
+            </div>
+            <a href="cabinet.html" class="header_cart_link header_contents"><img src="files/cart.svg" class="header_contents cart_img "></a>
+        <div class="navigation_menu">
+        <nav>
+            <ul class="nav">
+                <li>
+                    <ul class="second">
+                        <li>
+                            <a class="link" href="catalog.html"><span class="header_link_text">ПОПУЛЯРНОЕ</span></a>
+                        </li>
+                        <li>
+                            <a class="link" href="catalog.html"><span class="header_link_text">АКЦИИ</span></a>
+                        </li>
+                        <li>
+                            <a class="link" href="articles.html"><span class="header_link_text">СТАТЬИ</span></a>
+                        </li>
+                        <li>
+                            <a class="link" href="cabinet.html"><span class="header_link_text">КАБИНЕТ</span></a>
+                        </li>
+                        <li id="nav_list_last">
+                            <a class="link" href="article.html"><span class="header_link_text">ОПТ</span></a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+            </nav>
+    
+        </div>
+    </div>
+        </header>
+        <aside class="markup item_aside" id="asideCont">
+            <div class="aside_content" id="asideContIn">
+                <h3 id="asidehdr">ЧАЙ</h3>
+                <a class="aside_link"  href="catalog.html" onclick="loadCatalog(0);"><span>НОВИНКИ</span></a> <br>
+                <a class="aside_link" href="catalog.html" onclick="loadCatalog(0);"> <span>СКИДКИ</span> </a> <br> 
+                <a class="aside_link" href="catalog.html"> <span>ПУЭР</span> </a><br>
+                <a class="aside_link" href="catalog.html" onclick="loadCatalog(1);"> <span class="aside_subcategory">ШУ ПРЕСОВАННЫЙ</span> </a>
+                <a class="aside_link" href="catalog.html" onclick="loadCatalog(2);"> <span class="aside_subcategory">ШУ РАССЫПНОЙ</span> </a>
+               <a class="aside_link" href="catalog.html" onclick="loadCatalog(3);"> <span class="aside_subcategory">ШЕН ПРЕСОВАННЫЙ</span> </a>
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(4);">  <span class="aside_subcategory">ШЕН РАССЫПНОЙ</span> </a>
+              <a class="aside_link" href="catalog.html">  <span>УЛУНЫ</span> </a><br> 
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(5);">  <span class="aside_subcategory">УИШАНЬ</span> <br> </a>
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(6);">  <span class="aside_subcategory">ТАЙВАНЬ</span> <br> </a>
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(7);">  <span class="aside_subcategory">ГУАНДУН</span> <br> </a>
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(8);">  <span class="aside_subcategory">ЮННАНЬ</span> <br> </a>
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(9);">  <span class="aside_subcategory">ЮЖНАЯ ФУЦЗЯНЬ</span></a> <br> 
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(10);">  <span>КРАСНЫЙ ЧАЙ</span></a><br>
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(11);">  <span>ЗЕЛЁНЫЙ ЧАЙ</span></a><br>
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(12);">  <span>БЕЛЫЫЙ ЧАЙ</span></a><br>
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(13);">  <span>ЧЁРНЫЙ ЧАЙ</span></a><br>
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(14);">  <span>ЖЁЛТЫЙ ЧАЙ</span></a><br>
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(15);">  <span>ЭКСКЛЮЗИВНЫЙ, КОНКУРСНЫЙ ЧАЙ</span> </a><br> 
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(16);">  <span>МАТЕ</span> </a><br> 
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(17);">  <span>ГАБА</span></a><br>      
+            </div>
+            </aside>
+    <main class="markup">            
+        <a href="#" onclick="sideMenu();"><img src="files/menu.png" class="main_menu"></a>
+        <div class="markup item_content" id="item_content_data">
+            <h4>
+                <span><a href="main.html">Главная /</a></span>
+                <span><a href="catalog.html" class="tcategory" id="CategoryOfProduct">улуны /</a></span>
+                <span class="tname"  id="NameOfProduct">ТЕ ЛОХАНЬ</span>
+            </h4>
+            <h3 id="NameOfProduct1">
+                ТЕ ЛОХАНЬ
+            </h3>
+           <div class="item_info">
+           <div class="image line">
+            <span id="ImageOfProduct"><img src="files/te-lohan.jpg" class="teaphoto"></span>
+            <div class="info line">
+                <h5 class="first">Категория: <span class="tcategory" id="categoryOfTea">уишаньские улуны</span></h5>
+                <h5>Наличие: <span class="timage presencephoto" id="Presence" ><img src="files/present.png"></span></h5>
+                <div class="tamount">
+                    <div>
+                    <div class="select">
+                        <span>50 гр.</span>
+                    </div>
+                    </div>
+                    <div class="price">
+                        <span><span id="PriceOfProduct">230</span> р</span>
+                    </div>
+                </div>
+                <div class="buttons">
+                    <a href="#" class="butt butt2" id="addition"><span class="purchase_button_text">В КОРЗИНУ</span></a>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="item_main_info">
+            <div class="first_div">
+                <span class="first">
+                <h6>Описание</h6>
+                <span id="DescriptionOfProduct">
+                “Железный Архат” – уишаньский улун, родом из северной части провинции Фуцзянь. Является одним из старейших<br>
+                            и легендарных сортов данного региона. Занимает одно из мест в “знаменитой четверке утесных улунов” (Сы Да Мин Цун, 四大名枞).<br>
+                            Чай имеет огромную ценность среди своих “сородичей” за счет великолепной гастрономии, а также выразительного и сильного воздействия на организм.
+                </span>
+                </span>
+            </div>
+            <div>
+                <span>
+                <h6 class="second">Как заваривать</h6>
+                <span>Заваривание проливом</span>
+                <span id="BrewingOfProduct">
+                Посуда из пористой глины для темных улунов продольной скрутки или фарфор; <br><br>
+			Вода с температурой 90-95°С;<br><br>
+			Соотношение сухой заварки – 5-6 гр. на 100 мл. воды;<br><br>
+			Заваривать короткими проливами по 5-10 сек., постепенно увеличивая время на 5-15 сек.;<br><br>
+			Хорошо держит вкус на протяжении 7-10 проливов.
+                </span>
+                </span>
+            </div>
+        </div>
+        </div>
+    </main>
+        <footer class="footer item_footer" id="footid"> 
+            <div class="footer_mid"><span class="footer_text_head">Принимаем к оплате</span><br>
+            <img class="payment_way1" src="files/visa.png">
+            <img class="payment_way1" src="files/mastercard.png">
+            <img class="payment_way1" src="files/mir.png">
+            </div>
+            <div class="mobile_footer_1">
+            <ul class="unmarked footer_column1">
+                <a><span class = "footer_text_head">Информация</span><br></a>
+                <a><span class = "footer_text">О нас</span><br></a>
+                <a><span class = "footer_text">Чай оптом</span></a>
+                <a><span class = "footer_text">Доставка и оплата</span></a>
+                <a><span class = "footer_text">Акции</span></a>
+                <a><span class = "footer_text">Статьи</span></a>
+            </ul>
+            <ul class="unmarked footer_column2">
+                <a><span class = "footer_text_head">Личный кабинет</span><br></a>
+                <a><span class = "footer_text">Личный кабинет</span><br></a>
+                <a><span class = "footer_text">История заказов</span></a>
+                <a><span class = "footer_text">Закладки</span><br></a>
+                <a><span class = "footer_text" style="visibility: hidden;">.</span><br></a>
+            </ul>
+            </div>
+            <div class="mobile_footer_2">
+            <ul class="unmarked footer_column3">
+                <a><span class = "footer_text_head">Наши контакты</span><br></a>
+                <a><span class = "footer_text">+375 (33) 624-17-08</span><br></a>
+                <a><span class = "footer_text">+375 (29) 272-13-00 </span></a>
+                <a><span class = "footer_text">+375 (29) 225-82-44 </span><br></a>
+                <a><span class = "footer_text">paveldzibuk@gmail.com</span><br></a>
+            </ul>
+            <ul class="unmarked footer_column4">
+                <a><span class = "footer_text_head">Наш адрес</span><br></a>
+                <a><span class = "footer_text">Брест, ул Советская 34</span><br></a>
+                <a><span class = "footer_text" style="visibility: hidden;">.</span><br></a>
+                <a><span class = "footer_text" style="visibility: hidden;">.</span><br></a>
+                <a><span class = "footer_text" style="visibility: hidden;">.</span><br></a>
+            </ul>
+            </div>
+    
+    <div class="bottom_footer">
+        <span>©2024-2024 TEA TOAD, чайная жабка</span><br>
+        <span class="semi_bold">Плыви на одной волне с чаем</span>
+    </div>
+    </footer>  
+    
+    <script>
+        function sideMenu()
+            {
+                window.onscroll = () => window.scroll(0, 0);
+                document.getElementById('asidehdr').style=`display:none`
+                document.getElementById('footid').style=`display:none`
+                document.getElementById('headid').style=`display:none;`
+            document.getElementById('asideCont').style=`display:block;
+            height:100%;
+            width:100%;
+            visibility:visible;
+            `
+            document.getElementById('asideContIn').style=`height:100%`
+            let inputs = document.getElementsByTagName('span');
+            let inputs1 = document.getElementsByTagName('a');
+            let inputs2 = document.getElementsByTagName('br');
+            for (let input2 of inputs2) {
+              input2.style=`
+              display:none;
+              `;
+            }   
+            for (let input of inputs) {
+              input.style=`
+              display:block;
+              height:30px;
+              
+              border-bottom:1px solid black;
+              `;
+            }       
+            for (let input1 of inputs1) {
+              input1.style=`
+              display:block;
+              height:30px;
+              margin:0;
+              margin-top:10px;
+              margin-bottom:10px;
+              border-bottom:1px solid black;
+              `;
+            }         
+        }
+         function loadCatalog(catnum)
+        {
+            localStorage.setItem('_category_',catnum);
+        }
+        document.getElementById('addition').onclick = function addtocart()
+        {
+            
+            
+            let catnum = localStorage.getItem('_category_');
+            console.log(catnum);
+            let id = localStorage.getItem('_item_');
+            console.log(id);
+            
+            let string = localStorage.getItem('_cart_');
+            if(string == undefined)
+            {
+            console.log('sfghj');
+            string='';
+            }
+            let catnums = catnum.toString();
+            let ids = id.toString();
+            console.log(catnums, ids);
+            if(catnum < 10)
+            {
+                string += '0';
+            }
+            string += catnum;
+            if(id < 10)
+            {
+                string += '0';
+            }
+            string += id;
+            console.log(string);
+            localStorage.setItem('_cart_', string);
+            //temp - xml tag <item>
+                
+    
+
+        }
+        onload = function()
+        {
+            let typen = localStorage.getItem('_category_');
+            let id = localStorage.getItem('_item_');
+            console.log(typen, id);
+            
+            let xmlContent = '';
+        let grid = document.getElementById('item_content_data');
+fetch('xml/data.xml',{ mode:'no-cors'}).then((response)=>{
+    response.text().then((xml)=>{
+        xmlContent = xml;
+        let parser = new DOMParser();
+        let xmlDOM = parser.parseFromString(xmlContent, 'application/xml');
+        let tea = xmlDOM.querySelectorAll('tea');
+        tea.forEach(teaXmlNode => {
+
+            let trans = document.getElementById('NameOfProduct');
+            let trans1 = document.getElementById('NameOfProduct1');
+            let temp = teaXmlNode.children[typen].children[id];
+            //temp - xml tag <item>
+            let nameText = temp.children[0];
+            trans.innerHTML=nameText.innerHTML;
+            trans1.innerHTML=nameText.innerHTML;
+
+            trans = document.getElementById('PriceOfProduct');
+            let xmldata = temp.children[1];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('CategoryOfProduct');
+            xmldata = temp.children[2];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('DescriptionOfProduct');
+            xmldata = temp.children[3];
+            trans.innerHTML = xmldata.innerHTML;
+            
+            trans = document.getElementById('BrewingOfProduct');
+            xmldata = temp.children[4];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('ImageOfProduct');
+            xmldata = temp.children[5];
+            trans.innerHTML = xmldata.innerHTML;
+
+
+            trans = document.getElementById('Presence');
+            xmldata = temp.children[6];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('categoryOfTea');
+            xmldata = temp.children[7];
+            trans.innerHTML = xmldata.innerHTML;
+        })
+    })
+});
+/**/
+}
+    </script>
+    </body>
+</html>

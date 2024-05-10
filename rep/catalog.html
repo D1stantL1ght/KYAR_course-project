@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="russian">
+    <head>
+        <link rel="stylesheet" href="scss/style.css">
+        <title>TEA TOAD</title>     
+    </head>
+    <body>
+        <header id="headid">
+            <div class="header_content">
+            <a href="main.html" class="logo_link"><img src="files/LOGO circle.svg" class="main_logo header_contents">
+                <h1 class="logo_text header_contents">TEA TOAD</h1></a>
+            <div class="searchbar header_contents">
+                
+            </div>
+            <div class="number_block header_contents">
+                <span class="header_numbers ">+375 (33) 624-17-08</span>
+                <span class="header_numbers">+375 (33) 624-17-08</span>
+                <span class="header_numbers">+375 (33) 624-17-08</span>
+            </div>
+            <a href="cabinet.html" class="header_cart_link header_contents"><img src="files/cart.svg" class="header_contents cart_img "></a>
+        <div class="navigation_menu">
+        <nav>
+            <ul class="nav">
+                <li>
+                    <ul class="second">
+                        <li>
+                            <a class="link" href="catalog.html"><span class="header_link_text">ПОПУЛЯРНОЕ</span></a>
+                        </li>
+                        <li>
+                            <a class="link" href="catalog.html"><span class="header_link_text">АКЦИИ</span></a>
+                        </li>
+                        <li>
+                            <a class="link" href="articles.html"><span class="header_link_text">СТАТЬИ</span></a>
+                        </li>
+                        <li>
+                            <a class="link" href="cabinet.html"><span class="header_link_text">КАБИНЕТ</span></a>
+                        </li>
+                        <li id="nav_list_last">
+                            <a class="link" href="article.html"><span class="header_link_text">ОПТ</span></a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+            </nav>
+    
+        </div>
+    </div>
+        </header>
+        <aside class="markup catalog_aside" id="asideCont">
+            <div class="aside_content" id="asideContIn">
+                <h3 id="asidehdr">ЧАЙ</h3>
+                <a class="aside_link"  href="catalog.html" onclick="loadCatalog(0);"><span>НОВИНКИ</span></a> <br>
+                <a class="aside_link" href="catalog.html" onclick="loadCatalog(0);"> <span>СКИДКИ</span> </a> <br> 
+                <a class="aside_link" href="catalog.html"> <span>ПУЭР</span> </a><br>
+                <a class="aside_link" href="catalog.html" onclick="loadCatalog(1);"> <span class="aside_subcategory">ШУ ПРЕСОВАННЫЙ</span> </a>
+                <a class="aside_link" href="catalog.html" onclick="loadCatalog(2);"> <span class="aside_subcategory">ШУ РАССЫПНОЙ</span> </a>
+               <a class="aside_link" href="catalog.html" onclick="loadCatalog(3);"> <span class="aside_subcategory">ШЕН ПРЕСОВАННЫЙ</span> </a>
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(4);">  <span class="aside_subcategory">ШЕН РАССЫПНОЙ</span> </a>
+              <a class="aside_link" href="catalog.html">  <span>УЛУНЫ</span> </a><br> 
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(5);">  <span class="aside_subcategory">УИШАНЬ</span> <br> </a>
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(6);">  <span class="aside_subcategory">ТАЙВАНЬ</span> <br> </a>
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(7);">  <span class="aside_subcategory">ГУАНДУН</span> <br> </a>
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(8);">  <span class="aside_subcategory">ЮННАНЬ</span> <br> </a>
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(9);">  <span class="aside_subcategory">ЮЖНАЯ ФУЦЗЯНЬ</span></a> <br> 
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(10);">  <span>КРАСНЫЙ ЧАЙ</span></a><br>
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(11);">  <span>ЗЕЛЁНЫЙ ЧАЙ</span></a><br>
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(12);">  <span>БЕЛЫЫЙ ЧАЙ</span></a><br>
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(13);">  <span>ЧЁРНЫЙ ЧАЙ</span></a><br>
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(14);">  <span>ЖЁЛТЫЙ ЧАЙ</span></a><br>
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(15);">  <span>ЭКСКЛЮЗИВНЫЙ, КОНКУРСНЫЙ ЧАЙ</span> </a><br> 
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(16);">  <span>МАТЕ</span> </a><br> 
+              <a class="aside_link" href="catalog.html" onclick="loadCatalog(17);">  <span>ГАБА</span></a><br>
+                
+                
+            </div>
+            </aside>
+    <main class="markup">
+        <div class="content markup catalog_content">
+            <a href="#" onclick="sideMenu();"><img src="files/menu.png" class="main_menu"></a>
+            <div class="row_catalog">    
+                <h3 class="midpage_category_name">КАТАЛОГ</h3>
+                <div class="item_frame_first first">
+                    <a class="item_link" href="#" onclick="load(0)" id="timage1"><span id = "IMAG1"><img src="files/dhp1.jpg"></span></a>
+                    <h4 id="tname1"><span id="NAME1">ДА ХУН ПАО</span></h4>
+                    <h5 id="tprice1"><span id="COST1">13,35</span> р</h5>
+                    <a href="#" class="purchase_button" onclick="load(0)"><span class="purchase_button_text">КУПИТЬ</span></a>
+                </div>
+                <div class="item_frame_second second">
+                    <a class="item_link" href="#" onclick="load(1)"><span id = "IMAG2"><img src="files/dhp2.jpg"></span></a>
+                    <h4><span id="NAME2">ДА ХУН ПАО ГАО ХО</span></h4>
+                    <h5><span id="COST2">11,00</span> р</h5>
+                    <a href="#" class="purchase_button" onclick="load(1)"><span class="purchase_button_text">КУПИТЬ</span></a>
+                </div>
+                <div class="item_frame_third last">
+                    <a class="item_link" href="#" onclick="load(2)"><span id = "IMAG3"><img src="files/ci-lan.jpg"></span></a>
+                    <h4><span id="NAME3">ЦИ ЛАНЬ</span></h4>
+                    <h5><span id="COST3">18,00</span> р</h5>
+                    <a href="#"  class="purchase_button" onclick="load(2)"><span class="purchase_button_text">КУПИТЬ</span></a>
+                </div>
+                <div class="item_frame_first first">
+                    <a class="item_link" href="#" onclick="load(3)"><span id = "IMAG4"><img src="files/zhou-guj.jpg"></span></a>
+                    <h4><span id="NAME4">ЖОУ ГУЙ ТАН БЭЙ</span></h4>
+                    <h5><span id="COST4">24,50</span> р</h5>
+                    <a href="#"  class="purchase_button" onclick="load(3)"><span class="purchase_button_text">КУПИТЬ</span></a>
+                </div>
+                <div class="item_frame_second second">
+                    <a class="item_link" href="#" onclick="load(4)"><span id = "IMAG5"><img src="files/shuj-czin-guj.jpg"></span></a>
+                    <h4><span id="NAME5">ШУЙ ЦЗИНЬ ГУЙ</span></h4>
+                    <h5><span id="COST5">34,50</span> р</h5>
+                    <a href="#" class="purchase_button" onclick="load(4)"><span class="purchase_button_text">КУПИТЬ</span></a>
+                </div>
+                <div class="item_frame_third last">
+                    <a class="item_link" href="#" onclick="load(5)"><span id = "IMAG6"><img src="files/lao-da-hun-pao-2006.jpg"></span></a>
+                    <h4><span id="NAME6">ЛАО ДА ХУН ПАО 2006г</span></h4>
+                    <h5><span id="COST6">126,00</span> р</h5>
+                    <a href="#" class="purchase_button" onclick="load(5)"><span class="purchase_button_text">КУПИТЬ</span></a>
+                </div>
+                <div class="item_frame_first first">
+                    <a class="item_link" href="#" onclick="load(6)"><span id = "IMAG7"><img src="files/ui-mjej-chzan.jpg"></span></a>
+                    <h4><span id="NAME7">УИ МЭЙ ЧЖАНЬ</span></h4>
+                    <h5><span id="COST7">37,50</span> р</h5>
+                    <a href="#" class="purchase_button" onclick="load(6)"><span class="purchase_button_text">КУПИТЬ</span></a>
+                </div>
+                <div class="item_frame_second second">
+                    <a class="item_link" href="#" onclick="load(7)"><span id = "IMAG8"><img src="files/gao-cong-shuixian.jpg"></span></a>
+                    <h4><span id="NAME8">ШУЙ СЯНЬ ГАО ЦУН</span></h4>
+                    <h5><span id="COST8">49,00</span> р</h5>
+                    <a href="#" class="purchase_button" onclick="load(7)"><span class="purchase_button_text">КУПИТЬ</span></a>
+                </div>
+                <div class="item_frame_third last">
+                    <a class="item_link" href="#" onclick="load(8)"><span id = "IMAG9"><img src="files/d-h-p.jpg"></span></a>
+                    <h4><span id="NAME9">ДХП БаДу</span></h4>
+                    <h5><span id="COST9">34,00</span> р</h5>
+                    <a href="#" class="purchase_button" onclick="load(8)"><span class="purchase_button_text">КУПИТЬ</span></a>
+                </div>
+                <div class="item_frame_first first">
+                    <a class="item_link" href="#" onclick="load(9)"><span id = "IMAG10"><img src="files/te-lohan.jpg"></span></a>
+                    <h4><span id="NAME10">ТЕ ЛОХАНЬ</span></h4>
+                    <h5><span id="COST10">230,00</span> р</h5>
+                    <a href="#" class="purchase_button" onclick="load(9)"><span class="purchase_button_text">КУПИТЬ</span></a>
+                </div>
+                <div class="item_frame_second second">
+                    <a class="item_link" href="#" onclick="load(10)"><span id = "IMAG11"><img src="files/czin-guan-in.jpg"></span></a>
+                    <h4><span id="NAME11">ЦЗИНЬ ГУАНЬ ИНЬ</span></h4>
+                    <h5><span id="COST11">26,40</span> р</h5>
+                    <a href="#" class="purchase_button" onclick="load(10)"><span class="purchase_button_text">КУПИТЬ</span></a>
+                </div>
+                <div class="item_frame_third last">
+                    <a class="item_link" href="#" onclick="load(11)"><span id = "IMAG12"><img src="files/caj-cha.jpg"></span></a>
+                    <h4><span id="NAME12">ЦАЙ ЧА 2016г</span></h4>
+                    <h5><span id="COST12">35,40</span> р</h5>
+                    <a href="#" class="purchase_button" onclick="load(11)"><span class="purchase_button_text">КУПИТЬ</span></a>
+                </div>
+                <div class="item_frame_first first">
+                    <a class="item_link" href="#" onclick="load(12)"><span id = "IMAG13"><img src="files/fo-shou.jpg"></span></a>
+                    <h4><span id="NAME13">ФО ШОУ</span></h4>
+                    <h5><span id="COST13">126,00</span> р</h5>
+                    <a href="#" class="purchase_button" onclick="load(12)"><span class="purchase_button_text">КУПИТЬ</span></a>
+                </div>
+                <div class="item_frame_second second">
+                    <a class="item_link" href="#" onclick="load(13)"><span id = "IMAG14"><img src="files/rougui-guo-xiang.jpg"></span></a>
+                    <h4><span id="NAME14">ЖОУ ГУЙ ГУО СЯН</span></h4>
+                    <h5><span id="COST14">24,00</span> р</h5>
+                    <a href="#" class="purchase_button" onclick="load(13)"><span class="purchase_button_text">КУПИТЬ</span></a>
+                </div>
+                <div class="item_frame_third last">
+                    <a class="item_link" href="#" onclick="load(14)"><span id = "IMAG15"><img src="files/ma-tou-zhou-guj.jpg"></span></a>
+                    <h4><span id="NAME15">МА ТОУ ЖОУ ГУЙ</span></h4>
+                    <h5><span id="COST15">76,50</span> р</h5>
+                    <a href="#" class="purchase_button" onclick="load(14)"><span class="purchase_button_text">КУПИТЬ</span></a>
+                </div>
+            </div>
+           
+            </div>
+        </div>
+    </main>
+        <footer class="footer" id="footid"> 
+            <div class="footer_mid"><span class="footer_text_head">Принимаем к оплате</span><br>
+            <img class="payment_way1" src="files/visa.png">
+            <img class="payment_way1" src="files/mastercard.png">
+            <img class="payment_way1" src="files/mir.png">
+            </div>
+            <div class="mobile_footer_1">
+            <ul class="unmarked footer_column1">
+                <a><span class = "footer_text_head">Информация</span><br></a>
+                <a><span class = "footer_text">О нас</span><br></a>
+                <a><span class = "footer_text">Чай оптом</span></a>
+                <a><span class = "footer_text">Доставка и оплата</span></a>
+                <a><span class = "footer_text">Акции</span></a>
+                <a><span class = "footer_text">Статьи</span></a>
+            </ul>
+            <ul class="unmarked footer_column2">
+                <a><span class = "footer_text_head">Личный кабинет</span><br></a>
+                <a><span class = "footer_text">Личный кабинет</span><br></a>
+                <a><span class = "footer_text">История заказов</span></a>
+                <a><span class = "footer_text">Закладки</span><br></a>
+                <a><span class = "footer_text" style="visibility: hidden;">.</span><br></a>
+            </ul>
+            </div>
+            <div class="mobile_footer_2">
+            <ul class="unmarked footer_column3">
+                <a><span class = "footer_text_head">Наши контакты</span><br></a>
+                <a><span class = "footer_text">+375 (33) 624-17-08</span><br></a>
+                <a><span class = "footer_text">+375 (29) 272-13-00 </span></a>
+                <a><span class = "footer_text">+375 (29) 225-82-44 </span><br></a>
+                <a><span class = "footer_text">paveldzibuk@gmail.com</span><br></a>
+            </ul>
+            <ul class="unmarked footer_column4">
+                <a><span class = "footer_text_head">Наш адрес</span><br></a>
+                <a><span class = "footer_text">Брест, ул Советская 34</span><br></a>
+                <a><span class = "footer_text" style="visibility: hidden;">.</span><br></a>
+                <a><span class = "footer_text" style="visibility: hidden;">.</span><br></a>
+                <a><span class = "footer_text" style="visibility: hidden;">.</span><br></a>
+            </ul>
+            </div>
+    
+    <div class="bottom_footer">
+        <span>©2024-2024 TEA TOAD, чайная жабка</span><br>
+        <span class="semi_bold">Плыви на одной волне с чаем</span>
+    </div>
+    </footer>  
+    <script>
+ function loadCatalog(catnum)
+        {
+            localStorage.setItem('_category_',catnum);
+        }
+        function sideMenu()
+            {
+                window.onscroll = () => window.scroll(0, 0);
+                document.getElementById('asidehdr').style=`display:none`
+                document.getElementById('footid').style=`display:none`
+                document.getElementById('headid').style=`display:none;`
+            document.getElementById('asideCont').style=`display:block;
+            height:100%;
+            width:100%;
+            visibility:visible;
+            `
+            document.getElementById('asideContIn').style=`height:100%`
+            let inputs = document.getElementsByTagName('span');
+            let inputs1 = document.getElementsByTagName('a');
+            let inputs2 = document.getElementsByTagName('br');
+            for (let input2 of inputs2) {
+              input2.style=`
+              display:none;
+              `;
+            }   
+            for (let input of inputs) {
+              input.style=`
+              display:block;
+              height:30px;
+              
+              border-bottom:1px solid black;
+              `;
+            }       
+            for (let input1 of inputs1) {
+              input1.style=`
+              display:block;
+              height:30px;
+              margin:0;
+              margin-top:10px;
+              margin-bottom:10px;
+              border-bottom:1px solid black;
+              `;
+            }         
+        }
+            function load(input){
+            localStorage.setItem('_item_', input);
+            location.href = 'item.html';
+        };
+        onload = function(){
+        let categoryid = localStorage.getItem('_category_');
+        console.log(categoryid);
+
+        let xmlContent = '';
+        let grid = document.getElementById('item_content_data');
+fetch('xml/data.xml',{ mode:'no-cors'}).then((response)=>{
+    response.text().then((xml)=>{
+        xmlContent = xml;
+        let parser = new DOMParser();
+        let xmlDOM = parser.parseFromString(xmlContent, 'application/xml');
+        let tea = xmlDOM.querySelectorAll('tea');
+        tea.forEach(teaXmlNode => {
+            let temp = teaXmlNode.children[categoryid].children[0];
+            console.log(temp);
+            let xmldata = temp.children[0];
+
+            trans = document.getElementById('NAME1');
+            xmldata = temp.children[0];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('COST1');
+            xmldata = temp.children[1];
+            trans.innerHTML = xmldata.innerHTML/20;
+
+            trans = document.getElementById('IMAG1');
+            xmldata = temp.children[5];
+            trans.innerHTML = xmldata.innerHTML;
+            
+            temp = teaXmlNode.children[categoryid].children[1];
+
+            trans = document.getElementById('NAME2');
+            xmldata = temp.children[0];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('COST2');
+            xmldata = temp.children[1];
+            trans.innerHTML = xmldata.innerHTML/20;
+
+            trans = document.getElementById('IMAG2');
+            xmldata = temp.children[5];
+            trans.innerHTML = xmldata.innerHTML;
+            
+            temp = teaXmlNode.children[categoryid].children[2];
+
+            trans = document.getElementById('NAME3');
+            xmldata = temp.children[0];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('COST3');
+            xmldata = temp.children[1];
+            trans.innerHTML = xmldata.innerHTML/20;
+
+            trans = document.getElementById('IMAG3');
+            xmldata = temp.children[5];
+            trans.innerHTML = xmldata.innerHTML;
+            
+            temp = teaXmlNode.children[categoryid].children[3];
+
+            trans = document.getElementById('NAME4');
+            xmldata = temp.children[0];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('COST4');
+            xmldata = temp.children[1];
+            trans.innerHTML = xmldata.innerHTML/20;
+
+            trans = document.getElementById('IMAG4');
+            xmldata = temp.children[5];
+            trans.innerHTML = xmldata.innerHTML;
+            
+            temp = teaXmlNode.children[categoryid].children[4];
+
+            trans = document.getElementById('NAME5');
+            xmldata = temp.children[0];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('COST5');
+            xmldata = temp.children[1];
+            trans.innerHTML = xmldata.innerHTML/20;
+
+            trans = document.getElementById('IMAG5');
+            xmldata = temp.children[5];
+            trans.innerHTML = xmldata.innerHTML;
+            
+            temp = teaXmlNode.children[categoryid].children[5];
+
+            trans = document.getElementById('NAME6');
+            xmldata = temp.children[0];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('COST6');
+            xmldata = temp.children[1];
+            trans.innerHTML = xmldata.innerHTML/20;
+
+            trans = document.getElementById('IMAG6');
+            xmldata = temp.children[5];
+            trans.innerHTML = xmldata.innerHTML;
+            
+            temp = teaXmlNode.children[categoryid].children[6];
+
+            trans = document.getElementById('NAME7');
+            xmldata = temp.children[0];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('COST7');
+            xmldata = temp.children[1];
+            trans.innerHTML = xmldata.innerHTML/20;
+
+            trans = document.getElementById('IMAG7');
+            xmldata = temp.children[5];
+            trans.innerHTML = xmldata.innerHTML;
+            
+            temp = teaXmlNode.children[categoryid].children[7];
+
+            trans = document.getElementById('NAME8');
+            xmldata = temp.children[0];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('COST8');
+            xmldata = temp.children[1];
+            trans.innerHTML = xmldata.innerHTML/20;
+
+            trans = document.getElementById('IMAG8');
+            xmldata = temp.children[5];
+            trans.innerHTML = xmldata.innerHTML;
+            
+            temp = teaXmlNode.children[categoryid].children[8];
+
+            trans = document.getElementById('NAME9');
+            xmldata = temp.children[0];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('COST9');
+            xmldata = temp.children[1];
+            trans.innerHTML = xmldata.innerHTML/20;
+
+            trans = document.getElementById('IMAG9');
+            xmldata = temp.children[5];
+            trans.innerHTML = xmldata.innerHTML;
+            
+            temp = teaXmlNode.children[categoryid].children[9];
+            
+            trans = document.getElementById('NAME10');
+            xmldata = temp.children[0];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('COST10');
+            xmldata = temp.children[1];
+            trans.innerHTML = xmldata.innerHTML/20;
+           
+            trans = document.getElementById('IMAG10'); 
+            xmldata = temp.children[5];
+            trans.innerHTML = xmldata.innerHTML;
+                       
+            temp = teaXmlNode.children[categoryid].children[10];
+
+            trans = document.getElementById('NAME11');
+            xmldata = temp.children[0];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('COST11');
+            xmldata = temp.children[1];
+            trans.innerHTML = xmldata.innerHTML/20;
+
+            trans = document.getElementById('IMAG11');
+            xmldata = temp.children[5];
+            trans.innerHTML = xmldata.innerHTML;
+            
+            temp = teaXmlNode.children[categoryid].children[11];
+
+            trans = document.getElementById('NAME12');
+            xmldata = temp.children[0];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('COST12');
+            xmldata = temp.children[1];
+            trans.innerHTML = xmldata.innerHTML/20;
+
+            trans = document.getElementById('IMAG12');
+            xmldata = temp.children[5];
+            trans.innerHTML = xmldata.innerHTML;
+            
+            temp = teaXmlNode.children[categoryid].children[12];
+
+            trans = document.getElementById('NAME13');
+            xmldata = temp.children[0];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('COST13');
+            xmldata = temp.children[1];
+            trans.innerHTML = xmldata.innerHTML/20;
+
+            trans = document.getElementById('IMAG13');
+            xmldata = temp.children[5];
+            trans.innerHTML = xmldata.innerHTML;
+            
+            temp = teaXmlNode.children[categoryid].children[13];
+
+            trans = document.getElementById('NAME14');
+            xmldata = temp.children[0];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('COST14');
+            xmldata = temp.children[1];
+            trans.innerHTML = xmldata.innerHTML/20;
+
+            trans = document.getElementById('IMAG14');
+            xmldata = temp.children[5];
+            trans.innerHTML = xmldata.innerHTML;
+            
+            temp = teaXmlNode.children[categoryid].children[14];
+            
+            trans = document.getElementById('NAME15');
+            xmldata = temp.children[0];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('COST15');
+            xmldata = temp.children[1];
+            trans.innerHTML = xmldata.innerHTML/20;
+
+            trans = document.getElementById('IMAG15');
+            xmldata = temp.children[5];
+            trans.innerHTML = xmldata.innerHTML;
+        })
+    })
+});
+}
+    </script>
+    </body>
+</html>
