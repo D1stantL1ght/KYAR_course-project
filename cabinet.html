@@ -1,0 +1,649 @@
+<!DOCTYPE html>
+<html lang="russian">
+    <head>
+        <link rel="stylesheet" href="scss/style.css">
+        <title>TEA TOAD</title>     
+    </head>
+    <body>
+        <header id="headid">
+            <div class="header_content">
+            <a href="index.html" class="logo_link"><img src="files/LOGO circle.svg" class="main_logo header_contents">
+                <h1 class="logo_text header_contents">TEA TOAD</h1></a>
+            <div class="searchbar header_contents">
+                <input type="text" class="search_text header_contents" placeholder="ПОИСК"></input>
+                <img src="files/search.png" class="search_logo header_contents">
+            </div>
+            <div class="number_block header_contents">
+                <span class="header_numbers ">+375 (33) 624-17-08</span>
+                <span class="header_numbers">+375 (33) 624-17-08</span>
+                <span class="header_numbers">+375 (33) 624-17-08</span>
+            </div>
+            <a href="cabinet.html" class="header_cart_link header_contents"><img src="files/cart.svg" class="header_contents cart_img "></a>
+        <div class="navigation_menu">
+        <nav>
+            <ul class="nav">
+                <li>
+                    <ul class="second">
+                        <li>
+                            <a class="link" href="catalog.html"><span class="header_link_text">ПОПУЛЯРНОЕ</span></a>
+                        </li>
+                        <li>
+                            <a class="link" href="catalog.html"><span class="header_link_text">АКЦИИ</span></a>
+                        </li>
+                        <li>
+                            <a class="link" href="articles.html"><span class="header_link_text">СТАТЬИ</span></a>
+                        </li>
+                        <li>
+                            <a class="link" href="cabinet.html"><span class="header_link_text">КАБИНЕТ</span></a>
+                        </li>
+                        <li id="nav_list_last">
+                            <a class="link" href="article.html"><span class="header_link_text">ОПТ</span></a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+            </nav>
+    
+        </div>
+    </div>
+        </header>
+    <aside class="markup cabinet_aside" id="asideCont">
+    <div class="aside_content" id="asideContIn">
+        <h3 id="asidehdr">ЧАЙ</h3>
+        <a class="aside_link"  href="catalog.html" onclick="loadCatalog(0);"><span>НОВИНКИ</span></a> <br>
+        <a class="aside_link" href="catalog.html" onclick="loadCatalog(0);"> <span>СКИДКИ</span> </a> <br> 
+        <a class="aside_link" href="catalog.html"> <span>ПУЭР</span> </a><br>
+        <a class="aside_link" href="catalog.html" onclick="loadCatalog(1);"> <span class="aside_subcategory">ШУ ПРЕСОВАННЫЙ</span> </a>
+        <a class="aside_link" href="catalog.html" onclick="loadCatalog(2);"> <span class="aside_subcategory">ШУ РАССЫПНОЙ</span> </a>
+       <a class="aside_link" href="catalog.html" onclick="loadCatalog(3);"> <span class="aside_subcategory">ШЕН ПРЕСОВАННЫЙ</span> </a>
+      <a class="aside_link" href="catalog.html" onclick="loadCatalog(4);">  <span class="aside_subcategory">ШЕН РАССЫПНОЙ</span> </a>
+      <a class="aside_link" href="catalog.html">  <span>УЛУНЫ</span> </a><br> 
+      <a class="aside_link" href="catalog.html" onclick="loadCatalog(5);">  <span class="aside_subcategory">УИШАНЬ</span> <br> </a>
+      <a class="aside_link" href="catalog.html" onclick="loadCatalog(6);">  <span class="aside_subcategory">ТАЙВАНЬ</span> <br> </a>
+      <a class="aside_link" href="catalog.html" onclick="loadCatalog(7);">  <span class="aside_subcategory">ГУАНДУН</span> <br> </a>
+      <a class="aside_link" href="catalog.html" onclick="loadCatalog(8);">  <span class="aside_subcategory">ЮННАНЬ</span> <br> </a>
+      <a class="aside_link" href="catalog.html" onclick="loadCatalog(9);">  <span class="aside_subcategory">ЮЖНАЯ ФУЦЗЯНЬ</span></a> <br> 
+      <a class="aside_link" href="catalog.html" onclick="loadCatalog(10);">  <span>КРАСНЫЙ ЧАЙ</span></a><br>
+      <a class="aside_link" href="catalog.html" onclick="loadCatalog(11);">  <span>ЗЕЛЁНЫЙ ЧАЙ</span></a><br>
+      <a class="aside_link" href="catalog.html" onclick="loadCatalog(12);">  <span>БЕЛЫЫЙ ЧАЙ</span></a><br>
+      <a class="aside_link" href="catalog.html" onclick="loadCatalog(13);">  <span>ЧЁРНЫЙ ЧАЙ</span></a><br>
+      <a class="aside_link" href="catalog.html" onclick="loadCatalog(14);">  <span>ЖЁЛТЫЙ ЧАЙ</span></a><br>
+      <a class="aside_link" href="catalog.html" onclick="loadCatalog(15);">  <span>ЭКСКЛЮЗИВНЫЙ, КОНКУРСНЫЙ ЧАЙ</span> </a><br> 
+      <a class="aside_link" href="catalog.html" onclick="loadCatalog(16);">  <span>МАТЕ</span> </a><br> 
+      <a class="aside_link" href="catalog.html" onclick="loadCatalog(17);">  <span>ГАБА</span></a><br>
+        
+        
+    </div>
+    </aside>
+    <main class="markup">
+        <a href="#" onclick="sideMenu();"><img src="files/menu.png" class="main_menu"></a>
+        <div class="cabinet">
+            <div class="cabinet_main">
+            <h2>Личный кабинет</h2>
+            <img class="profile_photo" id="pfp" src="files/pfp.jpg">
+            <div class="inputs">
+                <a class="d" id="usernamecontainer"><span id="username">SAMPLE</span></a>
+                <a class="first" href="#" onclick="changename()"><span>ИЗМЕНИТЬ ИМЯ</span></a><input type="text" autocomplete="off" id="namechange"><input type="button" autocomplete="off" id="namechangebtn">
+                <a class="third" href="#" onclick="localStorage.removeItem('_cart_'); location.reload();"><span>ОЧИСТИТЬ</span></a>
+            </div>
+            <div class="summ"  id="exx">
+                <h3>Сумма: <span id="summgen">0.00</span> р</h3>
+                <a><span>ОФОРМИТЬ ЗАКАЗ</span></a>
+            </div>
+            </div>
+        <div class="cabinet_content" id="items">
+           <div class="item" id="instance1">
+                <span id="CartImage1"></span>
+                <div class="left">
+                    <h3 class="name" id="CartName1">ДА Ю ЛИНЬ</h3>
+                    <h4 class="amount"><span id="quantity">50 гр.</span></h4>
+                    <span id="CartPresenceImage1"><img class="ispresent" src="files/present.png"></span>
+                </div>
+                <div class="right">
+                    <div class="counter">
+                        <span class="upper" >Сумма:</span><br>
+                        <span class="lower"><span id="CartSumm1"></span> р</span>
+                    </div>
+                </div>
+           </div> 
+           <div class="item" id="instance2">
+            <span id="CartImage2"></span>
+            <div class="left">
+                <h3 class="name" id="CartName2">ДА Ю ЛИНЬ</h3>
+                <h4 class="amount"><span id="quantity">50 гр.</span></h4>
+                <span id="CartPresenceImage2"><img class="ispresent" src="files/present.png"></span>
+            </div>
+            <div class="right">
+                <div class="counter">
+                    <span class="upper" >Сумма:</span><br>
+                    <span class="lower"><span id="CartSumm2"></span> р</span>
+                </div>
+            </div>
+       </div> 
+       <div class="item" id="instance3">
+        <span id="CartImage3"></span>
+        <div class="left">
+            <h3 class="name" id="CartName3">ДА Ю ЛИНЬ</h3>
+            <h4 class="amount"><span id="quantity">50 гр.</span></h4>
+            <span id="CartPresenceImage3"><img class="ispresent" src="files/present.png"></span>
+        </div>
+        <div class="right">
+            <div class="counter">
+                <span class="upper" >Сумма:</span><br>
+                <span class="lower"><span id="CartSumm3"></span> р</span>
+            </div>
+        </div>
+   </div> 
+   <div class="item" id="instance4">
+    <span id="CartImage4"></span>
+    <div class="left">
+        <h3 class="name" id="CartName4">ДА Ю ЛИНЬ</h3>
+        <h4 class="amount"><span id="quantity">50 гр.</span></h4>
+        <span id="CartPresenceImage4"><img class="ispresent" src="files/present.png"></span>
+    </div>
+    <div class="right">
+        <div class="counter">
+            <span class="upper" >Сумма:</span><br>
+            <span class="lower"><span id="CartSumm4"></span> р</span>
+        </div>
+    </div>
+</div> 
+<div class="item" id="instance5">
+    <span id="CartImage5"></span>
+    <div class="left">
+        <h3 class="name" id="CartName5">ДА Ю ЛИНЬ</h3>
+        <h4 class="amount"><span id="quantity">50 гр.</span></h4>
+        <span id="CartPresenceImage5"><img class="ispresent" src="files/present.png"></span>
+    </div>
+    <div class="right">
+        <div class="counter">
+            <span class="upper" >Сумма:</span><br>
+            <span class="lower"><span id="CartSumm5"></span> р</span>
+        </div>
+    </div>
+</div> 
+<div class="item" id="instance6">
+    <span id="CartImage6"></span>
+    <div class="left">
+        <h3 class="name" id="CartName6">ДА Ю ЛИНЬ</h3>
+        <h4 class="amount"><span id="quantity">50 гр.</span></h4>
+        <span id="CartPresenceImage6"><img class="ispresent" src="files/present.png"></span>
+    </div>
+    <div class="right">
+        <div class="counter">
+            <span class="upper" >Сумма:</span><br>
+            <span class="lower"><span id="CartSumm6"></span> р</span>
+        </div>
+    </div>
+</div> 
+<div class="item" id="instance7">
+    <span id="CartImage7"></span>
+    <div class="left">
+        <h3 class="name" id="CartName7">ДА Ю ЛИНЬ</h3>
+        <h4 class="amount"><span id="quantity">50 гр.</span></h4>
+        <span id="CartPresenceImage7"><img class="ispresent" src="files/present.png"></span>
+    </div>
+    <div class="right">
+        <div class="counter">
+            <span class="upper" >Сумма:</span><br>
+            <span class="lower"><span id="CartSumm7"></span> р</span>
+        </div>
+    </div>
+</div> 
+<div class="item" id="instance8">
+    <span id="CartImage8"></span>
+    <div class="left">
+        <h3 class="name" id="CartName8">ДА Ю ЛИНЬ</h3>
+        <h4 class="amount"><span id="quantity">50 гр.</span></h4>
+        <span id="CartPresenceImage8"><img class="ispresent" src="files/present.png"></span>
+    </div>
+    <div class="right">
+        <div class="counter">
+            <span class="upper" >Сумма:</span><br>
+            <span class="lower"><span id="CartSumm8"></span> р</span>
+        </div>
+    </div>
+</div> 
+<div class="item" id="instance9">
+    <span id="CartImage9"></span>
+    <div class="left">
+        <h3 class="name" id="CartName9">ДА Ю ЛИНЬ</h3>
+        <h4 class="amount"><span id="quantity">50 гр.</span></h4>
+        <span id="CartPresenceImage9"><img class="ispresent" src="files/present.png"></span>
+    </div>
+    <div class="right">
+        <div class="counter">
+            <span class="upper" >Сумма:</span><br>
+            <span class="lower"><span id="CartSumm9"></span> р</span>
+        </div>
+    </div>
+</div> 
+<div class="item" id="instance10">
+    <span id="CartImage10"></span>
+    <div class="left">
+        <h3 class="name" id="CartName10">ДА Ю ЛИНЬ</h3>
+        <h4 class="amount"><span id="quantity">50 гр.</span></h4>
+        <span id="CartPresenceImage10"><img class="ispresent" src="files/present.png"></span>
+    </div>
+    <div class="right">
+        <div class="counter">
+            <span class="upper" >Сумма:</span><br>
+            <span class="lower"><span id="CartSumm10"></span> р</span>
+        </div>
+    </div>
+</div></div>
+        </div>
+    </main>
+        <footer class="footer cabinet_footer" id="footid"> 
+            <div class="footer_mid"><span class="footer_text_head">Принимаем к оплате</span><br>
+            <img class="payment_way1" src="files/visa.png">
+            <img class="payment_way1" src="files/mastercard.png">
+            <img class="payment_way1" src="files/mir.png">
+            </div>
+            <div class="mobile_footer_1">
+            <ul class="unmarked footer_column1">
+                <a><span class = "footer_text_head">Информация</span><br></a>
+                <a><span class = "footer_text">О нас</span><br></a>
+                <a><span class = "footer_text">Чай оптом</span></a>
+           <a><span class = "footer_text">Доставка и оплата</span></a>
+                <a><span class = "footer_text">Акции</span></a>
+                <a><span class = "footer_text">Статьи</span></a>
+            </ul>
+            <ul class="unmarked footer_column2">
+                <a><span class = "footer_text_head">Личный кабинет</span><br></a>
+                <a><span class = "footer_text">Личный кабинет</span><br></a>
+                <a><span class = "footer_text">История заказов</span></a>
+                <a><span class = "footer_text">Закладки</span><br></a>
+                <a><span class = "footer_text" style="visibility: hidden;">.</span><br></a>
+            </ul>
+            </div>
+            <div class="mobile_footer_2">
+            <ul class="unmarked footer_column3">
+                <a><span class = "footer_text_head">Наши контакты</span><br></a>
+                <a><span class = "footer_text">+375 (33) 624-17-08</span><br></a>
+                <a><span class = "footer_text">+375 (29) 272-13-00 </span></a>
+                <a><span class = "footer_text">+375 (29) 225-82-44 </span><br></a>
+                <a><span class = "footer_text">paveldzibuk@gmail.com</span><br></a>
+            </ul>
+            <ul class="unmarked footer_column4">
+                <a><span class = "footer_text_head">Наш адрес</span><br></a>
+                <a><span class = "footer_text">Брест, ул Советская 34</span><br></a>
+                <a><span class = "footer_text" style="visibility: hidden;">.</span><br></a>
+                <a><span class = "footer_text" style="visibility: hidden;">.</span><br></a>
+                <a><span class = "footer_text" style="visibility: hidden;">.</span><br></a>
+            </ul>
+            </div>
+    
+    <div class="bottom_footer">
+        <span>©2024-2024 TEA TOAD, чайная жабка</span><br>
+        <span class="semi_bold">Плыви на одной волне с чаем</span>
+    </div>
+    </footer>  
+    <script>
+         function loadCatalog(catnum)
+        {
+            localStorage.setItem('_category_',catnum);
+        }
+        function sideMenu()
+            {
+                window.onscroll = () => window.scroll(0, 0);
+                document.getElementById('asidehdr').style=`display:none`
+                document.getElementById('footid').style=`display:none`
+                document.getElementById('headid').style=`display:none;`
+            document.getElementById('asideCont').style=`display:block;
+            height:100%;
+            width:100%;
+            visibility:visible;
+            `
+            document.getElementById('asideContIn').style=`height:100%`
+            let inputs = document.getElementsByTagName('span');
+            let inputs1 = document.getElementsByTagName('a');
+            let inputs2 = document.getElementsByTagName('br');
+            for (let input2 of inputs2) {
+              input2.style=`
+              display:none;
+              `;
+            }   
+            for (let input of inputs) {
+              input.style=`
+              display:block;
+              height:30px;
+              
+              border-bottom:1px solid black;
+              `;
+            }       
+            for (let input1 of inputs1) {
+              input1.style=`
+              display:block;
+              height:30px;
+              margin:0;
+              margin-top:10px;
+              margin-bottom:10px;
+              border-bottom:1px solid black;
+              `;
+            }         
+        }
+        function changename()
+        {
+            document.getElementById('namechange').style=`display:inline-block; vertical-align:top; margin-bottom:5px;`
+            document.getElementById('exx').style=`display:none;`
+            
+            document.getElementById('namechangebtn').style=`display:inline-block;
+            margin-left: 5px; background-color:#97A391; border:0; height:24px; width: 30px; border-radius:5px`
+        }
+        document.getElementById('namechangebtn').onclick = function(){
+            let var1 = document.getElementById('namechange').value;
+            if(var1 != ''){
+            document.getElementById('username').innerHTML = var1;     }           
+        };
+        onload = function(){
+            console.log("12 ");
+            document.getElementById('namechange').style=`display:none;
+            margin-bottom:5px;`
+            document.getElementById('namechangebtn').style=`display:none;
+            margin-bottom:5px;`
+            let summ = 0;
+            let string = localStorage.getItem('_cart_');
+            if(string == null)
+            localStorage.removeItem('_cart_');
+            console.log(string, "12");
+            if (string == undefined)
+            {
+                string = '';
+                console.log("2345678");
+                document.getElementById('instance1').style.display = "none";
+                document.getElementById('instance2').style.display = "none";
+                document.getElementById('instance3').style.display = "none";
+                document.getElementById('instance4').style.display = "none";
+                document.getElementById('instance5').style.display = "none";
+                document.getElementById('instance6').style.display = "none";
+                document.getElementById('instance7').style.display = "none";
+                document.getElementById('instance8').style.display = "none";
+                document.getElementById('instance9').style.display = "none";
+                document.getElementById('instance10').style.display = "none";
+            }
+            else
+            {
+                
+                let xmlContent = '';
+fetch('xml/data.xml',{ mode:'no-cors'}).then((response)=>{
+    response.text().then((xml)=>{
+        xmlContent = xml;
+        let parser = new DOMParser();
+        let xmlDOM = parser.parseFromString(xmlContent, 'application/xml');
+        let tea = xmlDOM.querySelectorAll('tea');
+        tea.forEach(teaXmlNode => {
+            if(string[3]!= '' )
+    {
+            cat1 = string[0]*10 + string[1]*1;
+        id1 = string[2]*10 + string[3]*1;
+
+        let item1 = teaXmlNode.children[cat1].children[id1];
+
+        console.log("-->", cat1, id1);
+
+        
+        console.log(item1);
+
+        let trans = 0;
+        let = 0;
+        console.log(string);
+        
+            xmldata = item1.children[0];
+
+            trans = document.getElementById('CartName1');
+            xmldata = item1.children[0];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('CartSumm1');
+            xmldata = item1.children[1];
+            summ += xmldata.innerHTML/2;
+            trans.innerHTML = xmldata.innerHTML/20;
+
+            trans = document.getElementById('CartImage1');
+            xmldata = item1.children[5];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('CartPresenceImage1');
+            xmldata = item1.children[6];
+            trans.innerHTML = xmldata.innerHTML;
+        
+        if(string[7] != undefined)
+        {
+            cat2 = string[4]*10 + string[5]*1;
+            id2 = string[6]*10 + string[7]*1;
+        let item2 = teaXmlNode.children[cat2].children[id2];
+            xmldata = item2.children[0];
+
+            trans = document.getElementById('CartName2');
+            xmldata = item2.children[0];
+            trans.innerHTML = xmldata.innerHTML;
+            trans.innerHTML = xmldata.innerHTML;
+            trans = document.getElementById('CartSumm2');
+            xmldata = item2.children[1];
+            summ += xmldata.innerHTML/2;
+            trans.innerHTML = xmldata.innerHTML/20;
+
+            trans = document.getElementById('CartImage2');
+            xmldata = item2.children[5];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('CartPresenceImage2');
+            xmldata = item2.children[6];
+            trans.innerHTML = xmldata.innerHTML;
+            
+        }else document.getElementById('instance2').style.display = "none";
+        
+        if(string[11] != undefined)
+        {
+            cat2 = string[8]*10 + string[9]*1;
+            id2 = string[10]*10 + string[11]*1;
+        let item2 = teaXmlNode.children[cat2].children[id2];
+            xmldata = item2.children[0];
+
+            trans = document.getElementById('CartName3');
+            xmldata = item2.children[0];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('CartSumm3');
+            xmldata = item2.children[1];
+            summ += xmldata.innerHTML/2;
+            trans.innerHTML = xmldata.innerHTML/20;
+
+            trans = document.getElementById('CartImage3');
+            xmldata = item2.children[5];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('CartPresenceImage3');
+            xmldata = item2.children[6];
+            trans.innerHTML = xmldata.innerHTML;
+        }else document.getElementById('instance3').style.display = "none";
+
+        if(string[15] != undefined)
+        {
+            cat2 = string[12]*10 + string[13]*1;
+            id2 = string[14]*10 + string[15]*1;
+        let item2 = teaXmlNode.children[cat2].children[id2];
+            xmldata = item2.children[0];
+
+            trans = document.getElementById('CartName4');
+            xmldata = item2.children[0];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('CartSumm4');
+            xmldata = item2.children[1];
+            summ += xmldata.innerHTML/2;
+            trans.innerHTML = xmldata.innerHTML/20;
+
+            trans = document.getElementById('CartImage4');
+            xmldata = item2.children[5];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('CartPresenceImage4');
+            xmldata = item2.children[6];
+            trans.innerHTML = xmldata.innerHTML;
+        }else document.getElementById('instance4').style.display = "none";
+        
+        if(string[19] != undefined)
+        {
+            cat2 = string[16]*10 + string[17]*1;
+            id2 = string[18]*10 + string[19]*1;
+        let item2 = teaXmlNode.children[cat2].children[id2];
+            xmldata = item2.children[0];
+
+            trans = document.getElementById('CartName5');
+            xmldata = item2.children[0];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('CartSumm5');
+            xmldata = item2.children[1];
+            summ += xmldata.innerHTML/2;
+            trans.innerHTML = xmldata.innerHTML/20;
+
+            trans = document.getElementById('CartImage5');
+            xmldata = item2.children[5];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('CartPresenceImage5');
+            xmldata = item2.children[6];
+            trans.innerHTML = xmldata.innerHTML;
+        }else document.getElementById('instance5').style.display = "none";
+
+        if(string[23] != undefined)
+        {
+            cat2 = string[20]*10 + string[21]*1;
+            id2 = string[22]*10 + string[23]*1;
+        let item2 = teaXmlNode.children[cat2].children[id2];
+            xmldata = item2.children[0];
+
+            trans = document.getElementById('CartName6');
+            xmldata = item2.children[0];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('CartSumm6');
+            xmldata = item2.children[1];
+            summ += xmldata.innerHTML/2;
+            trans.innerHTML = xmldata.innerHTML/20;
+
+            trans = document.getElementById('CartImage6');
+            xmldata = item2.children[5];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('CartPresenceImage6');
+            xmldata = item2.children[6];
+            trans.innerHTML = xmldata.innerHTML;
+        }else document.getElementById('instance6').style.display = "none";
+
+        if(string[27] != undefined)
+        {
+            cat2 = string[24]*10 + string[25]*1;
+            id2 = string[26]*10 + string[27]*1;
+        let item2 = teaXmlNode.children[cat2].children[id2];
+            xmldata = item2.children[0];
+
+            trans = document.getElementById('CartName7');
+            xmldata = item2.children[0];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('CartSumm7');
+            xmldata = item2.children[1];
+            summ += xmldata.innerHTML/2;
+            trans.innerHTML = xmldata.innerHTML/20;
+
+            trans = document.getElementById('CartImage7');
+            xmldata = item2.children[5];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('CartPresenceImage7');
+            xmldata = item2.children[6];
+            trans.innerHTML = xmldata.innerHTML;
+        }else document.getElementById('instance7').style.display = "none";
+
+        if(string[31] != undefined)
+        {
+            cat2 = string[28]*10 + string[29]*1;
+            id2 = string[30]*10 + string[31]*1;
+        let item2 = teaXmlNode.children[cat2].children[id2];
+            xmldata = item2.children[0];
+
+            trans = document.getElementById('CartName8');
+            xmldata = item2.children[0];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('CartSumm8');
+            xmldata = item2.children[1];
+            summ += xmldata.innerHTML/2;
+            trans.innerHTML = xmldata.innerHTML/20;
+
+            trans = document.getElementById('CartImage8');
+            xmldata = item2.children[5];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('CartPresenceImage8');
+            xmldata = item2.children[6];
+            trans.innerHTML = xmldata.innerHTML;
+        }else document.getElementById('instance8').style.display = "none";
+
+        if(string[35] != undefined)
+        {
+            cat2 = string[32]*10 + string[33]*1;
+            id2 = string[34]*10 + string[35]*1;
+        let item2 = teaXmlNode.children[cat2].children[id2];
+            xmldata = item2.children[0];
+
+            trans = document.getElementById('CartName9');
+            xmldata = item2.children[0];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('CartSumm9');
+            xmldata = item2.children[1];
+            summ += xmldata.innerHTML/2;
+            trans.innerHTML = xmldata.innerHTML/20;
+
+            trans = document.getElementById('CartImage9');
+            xmldata = item2.children[5];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('CartPresenceImage9');
+            xmldata = item2.children[6];
+            trans.innerHTML = xmldata.innerHTML;
+        }else document.getElementById('instance9').style.display = "none";
+
+        if(string[39] != undefined)
+        {
+            cat2 = string[36]*10 + string[37]*1;
+            id2 = string[38]*10 + string[39]*1;
+        let item2 = teaXmlNode.children[cat2].children[id2];
+            xmldata = item2.children[0];
+
+            trans = document.getElementById('CartName10');
+            xmldata = item2.children[0];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('CartSumm10');
+            xmldata = item2.children[1];
+            summ += xmldata.innerHTML/2;
+            trans.innerHTML = xmldata.innerHTML/20;
+
+            trans = document.getElementById('CartImage10');
+            xmldata = item2.children[5];
+            trans.innerHTML = xmldata.innerHTML;
+
+            trans = document.getElementById('CartPresenceImage10');
+            xmldata = item2.children[6];
+         trans.innerHTML = xmldata.innerHTML;
+         
+        }else document.getElementById('instance10').style.display = "none"
+        console.log(summ/10);
+        document.getElementById('summgen').innerHTML = summ/10;
+    }
+   
+        })
+    })
+});
+
+         }
+        };
+    </script>
+    </body>
+</html>
