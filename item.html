@@ -2,6 +2,7 @@
 <html lang="russian">
     <head>
         <link rel="stylesheet" href="scss/style.css">
+        <script src="js/script.js"></script>
         <title>TEA TOAD</title>     
     </head>
     <body>
@@ -285,7 +286,7 @@ fetch('xml/data.xml',{ mode:'no-cors'}).then((response)=>{
 
             trans = document.getElementById('PriceOfProduct');
             let xmldata = temp.children[1];
-            trans.innerHTML = xmldata.innerHTML;
+            trans.innerHTML = xmldata.innerHTML/20;
 
             trans = document.getElementById('CategoryOfProduct');
             xmldata = temp.children[2];
