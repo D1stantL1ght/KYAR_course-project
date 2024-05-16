@@ -16,8 +16,8 @@
             </div>
             <div class="number_block header_contents">
                 <span class="header_numbers ">+375 (33) 624-17-08</span>
-                <span class="header_numbers">+375 (33) 624-17-08</span>
-                <span class="header_numbers">+375 (33) 624-17-08</span>
+                <span class="header_numbers">+375 (29) 272-13-00</span>
+                <span class="header_numbers">+375 (29) 225-82-44</span>
             </div>
             <a href="cabinet.html" class="header_cart_link header_contents"><img src="files/cart.svg" class="header_contents cart_img "></a>
         <div class="navigation_menu">
@@ -38,7 +38,7 @@
                             <a class="link" href="cabinet.html"><span class="header_link_text">КАБИНЕТ</span></a>
                         </li>
                         <li id="nav_list_last">
-                            <a class="link" href="article.html"><span class="header_link_text">ОПТ</span></a>
+                            <a class="link" href="article.html" onclick="articleload(1)"><span class="header_link_text">ОПТ</span></a>
                         </li>
                     </ul>
                 </li>
@@ -48,14 +48,13 @@
         </div>
     </div>
         </header>
-    
-    <main style="width: 100%; ">
-        <div style = "height: 200px; text-align: center;"> 
-            <h1>Данная страница находится в процессе разработки</h1>
-            <h2>Скоро здесь пявится множество интересной информации</h2>
-        </div>
+    <aside style="width: 0px; height:1500px;" id="side"></aside>
+    <main style="width: 100%;">
+        <div class="article" id="content">
+            
+            </div>
     </main>
-        <footer class="footer foot_article"> 
+        <footer class="footer"> 
             <div class="footer_mid"><span class="footer_text_head">Принимаем к оплате</span><br>
             <img class="payment_way1" src="files/visa.png">
             <img class="payment_way1" src="files/mastercard.png">
@@ -64,17 +63,17 @@
             <div class="mobile_footer_1">
             <ul class="unmarked footer_column1">
                 <a><span class = "footer_text_head">Информация</span><br></a>
-                <a><span class = "footer_text">О нас</span><br></a>
-                <a><span class = "footer_text">Чай оптом</span></a>
-                <a><span class = "footer_text">Доставка и оплата</span></a>
-                <a><span class = "footer_text">Акции</span></a>
-                <a><span class = "footer_text">Статьи</span></a>
+                <a href="article.html"  onclick="articleload(0)"><span class = "footer_text">О нас</span><br></a>
+                <a href="article.html"  onclick="articleload(1)"><span class = "footer_text">Чай оптом</span></a>
+                <a href="article.html"  onclick="articleload(2)"><span class = "footer_text">Доставка и оплата</span></a>
+                <a href="articles.html"><span class = "footer_text">Статьи</span></a>
             </ul>
             <ul class="unmarked footer_column2">
                 <a><span class = "footer_text_head">Личный кабинет</span><br></a>
-                <a><span class = "footer_text">Личный кабинет</span><br></a>
-                <a><span class = "footer_text">История заказов</span></a>
-                <a><span class = "footer_text">Закладки</span><br></a>
+                <a href="cabinet.html"><span class = "footer_text">Личный кабинет</span><br></a>
+                <a href="cabinet.html"><span class = "footer_text">Корзина</span><br></a>
+                <a><span class = "footer_text" style="visibility: hidden;">.</span><br></a>
+
                 <a><span class = "footer_text" style="visibility: hidden;">.</span><br></a>
             </ul>
             </div>
@@ -100,5 +99,29 @@
         <span class="semi_bold">Плыви на одной волне с чаем</span>
     </div>
     </footer>  
+    <script>
+          
+          function articleload(id){
+            localStorage.setItem('_articlenumber_', id);
+        }
+         onload = function(){
+            let artid = localStorage.getItem('_articlenumber_');
+        let xmlContent = '';
+        let grid = document.getElementById('item_content_data');
+fetch('xml/data.xml',{ mode:'no-cors'}).then((response)=>{
+    response.text().then((xml)=>{
+        xmlContent = xml;
+        let parser = new DOMParser();
+        let xmlDOM = parser.parseFromString(xmlContent, 'application/xml');
+        let tea = xmlDOM.querySelectorAll('articles');
+        tea.forEach(teaXmlNode => {
+            let temp = teaXmlNode.children[artid].children[2];
+            console.log(temp);
+            document.getElementById('content').innerHTML = temp.innerHTML;
+        })
+    })
+});
+        }
+    </script>
     </body>
 </html>

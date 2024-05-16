@@ -226,8 +226,6 @@ header {
 }
 
 .article_frame_first, .article_frame_second, .article_frame_third {
-  width: 280px;
-  height: 210px;
   display: inline-block;
 }
 .article_frame_first div, .article_frame_second div, .article_frame_third div {
@@ -535,6 +533,13 @@ input :hover {
   aside span {
     font-size: 14px;
   }
+  .article_frame_first img, .article_frame_second img, .article_frame_third img {
+    display: block;
+  }
+  .article_frame_first span, .article_frame_second span, .article_frame_third span {
+    display: block;
+    margin-top: 30px;
+  }
   .imgg {
     width: 280px;
     height: 210px;
@@ -782,6 +787,13 @@ input :hover {
     height: 300px;
     width: 400px;
   }
+  .article_frame_first, .article_frame_second, .article_frame_third {
+    width: 30%;
+  }
+  .article_frame_first img, .article_frame_second img, .article_frame_third img {
+    width: 160px;
+    height: 120px;
+  }
   .info {
     height: 200px;
     width: 300px;
@@ -903,7 +915,7 @@ input :hover {
   #nav li ul li span {
     width: 153px;
   }
-  .item_frame_first, .item_frame_second, .article_frame_first, .article_frame_second {
+  .item_frame_first, .item_frame_second {
     margin-right: 50px;
   }
   body {

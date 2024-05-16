@@ -1,25 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
-<!--
-        !новинки
-        !шу пресс
-        !шу рассыпной
-        !шен пресс
-        !шен рассыпной
-        !уишань
-        !тайвань
-        !гуандун
-        !юннань
-        !юж фуцзянь
-        !красный 
-        !зелёный
-        !белый
-        хэй чв
-        жёлтый
-        конкурсный
-        мате
-        габа
--->
 <tea>    
 <general>
         <item>
@@ -46,10 +26,10 @@
                 Вкус сохраняется на протяжении 6-7 проливов.
 			    </way>
                 <photo>
-                <img src="files/shu3.jpg" class="teaphoto"/>
+                <img src="../files/shu3.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -75,10 +55,10 @@
                 Не теряет вкус на протяжении 7-9 проливов.
 		</way>
                 <photo>
-                <img src="files/TG1.jpg" class="teaphoto"/>
+                <img src="../files/TG1.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 южнофузяньские улуны
@@ -113,10 +93,10 @@
                 Вкус сохраняется на протяжении 8-10 проливов.
 		</way>
                 <photo>
-                <img src="files/shu1.jpg" class="teaphoto"/>
+                <img src="../files/shu1.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -146,10 +126,10 @@
                 Заваривается на протяжении 8-10 проливов.
 			    </way>
                 <photo>
-                <img src="files/gaba1.jpg" class="teaphoto"/>
+                <img src="../files/gaba1.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 габа
@@ -180,10 +160,10 @@
                 Вкус держится на протяжении 9-11 проливов.
 			    </way>
                 <photo>
-                <img src="files/gaba2.jpg" class="teaphoto"/>
+                <img src="../files/gaba2.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 габа
@@ -215,10 +195,10 @@
 			    Отлично держит вкус на протяжении 6 проливов.
 			    </way>
                 <photo>
-                <img src="files/dhp1.jpg" class="teaphoto"/>
+                <img src="../files/dhp1.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 уишаньский улун
@@ -249,10 +229,10 @@
                 Вкус сохраняется на протяжении 7-9 проливов.
 		</way>
                 <photo>
-                <img src="files/shu4.jpg" class="teaphoto"/>
+                <img src="../files/shu4.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -274,10 +254,10 @@
 		Для заваривания лучше всего использовать стеклянную или фарфоровую посуду. Оптимальная температура воды – 80-85*С. Соотношение заварки – 3-5 гр. на 100 мл. воды. Хорошо держит вкус на протяжении 6-7 проливов.
 		</way>
                 <photo>
-                <img src="files/green1.jpg" class="teaphoto"/>
+                <img src="../files/green1.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 зелёный чай
@@ -308,10 +288,10 @@
                 Полноценно заваривается на протяжении 6-7 проливов.
 		</way>
                 <photo>
-                <img src="files/red1.jpg" class="teaphoto"/>
+                <img src="../files/red1.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 красный чай
@@ -344,10 +324,10 @@
                         Хорошо держит вкус на протяжении 5-6 проливов.
 			    </way>
                 <photo>
-                <img src="files/red2.jpg" class="teaphoto"/>
+                <img src="../files/red2.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 красный чай
@@ -376,10 +356,10 @@
                 Отлично сохраняет вкус на протяжении 7-8 проливов.
 			    </way>
                 <photo>
-                <img src="files/TG2.jpg" class="teaphoto"/>
+                <img src="../files/TG2.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 южнофузяньские улуны
@@ -402,10 +382,10 @@
 				Для заваривания лучше всего использовать стеклянную или фарфоровую посуду. Оптимальная температура воды – 80-85*С. Соотношение заварки – 3-5 гр. на 100 мл. воды. Хорошо держит вкус на протяжении 6-7 проливов.
 	        </way>
                 <photo>
-                <img src="files/green2.jpg" class="teaphoto"/>
+                <img src="../files/green2.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 зелёный чай
@@ -431,10 +411,10 @@
                 Не теряет вкус на протяжении 7-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/TG3.jpg" class="teaphoto"/>
+                <img src="../files/TG3.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 южнофузяньские улуны
@@ -460,10 +440,10 @@
                 Также этот чай можно заваривать длительным настаиванием. В этом случае понадобится 1 чайная ложка сенчи в пропорции на 250-300 мл воды.
 			    </way>
                 <photo>
-                <img src="files/green3.jpg" class="teaphoto"/>
+                <img src="../files/green3.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 зелёный чай
@@ -493,10 +473,10 @@
                 Вкус сохраняется на протяжении 6-7 проливов.
 			    </way>
                 <photo>
-                <img src="files/shu5.jpg" class="teaphoto"/>
+                <img src="../files/shu5.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -533,10 +513,10 @@
                 Вкус сохраняется на протяжении 8-10 проливов.
 		</way>
                 <photo>
-                <img src="files/shu1.jpg" class="teaphoto"/>
+                <img src="../files/shu1.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -569,10 +549,10 @@
                 Хорошо держит вкус на протяжении 6-7 проливов.
 		</way>
                 <photo>
-                <img src="files/shu2.jpg" class="teaphoto"/>
+                <img src="../files/shu2.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -602,10 +582,10 @@
                 Вкус сохраняется на протяжении 6-7 проливов.
 			    </way>
                 <photo>
-                <img src="files/shu3.jpg" class="teaphoto"/>
+                <img src="../files/shu3.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -636,10 +616,10 @@
                 Вкус сохраняется на протяжении 7-9 проливов.
 		</way>
                 <photo>
-                <img src="files/shu4.jpg" class="teaphoto"/>
+                <img src="../files/shu4.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -669,10 +649,10 @@
                 Вкус сохраняется на протяжении 6-7 проливов.
 			    </way>
                 <photo>
-                <img src="files/shu5.jpg" class="teaphoto"/>
+                <img src="../files/shu5.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -702,10 +682,10 @@
                 Отлично держит вкус на протяжении 8-10 завариваний.
                 </way>
                 <photo>
-                <img src="files/shu6.jpg" class="teaphoto"/>
+                <img src="../files/shu6.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -737,10 +717,10 @@
                 Отлично держит вкус на протяжении 8-10 завариваний.
                 </way>
                 <photo>
-                <img src="files/shu7.jpg" class="teaphoto"/>
+                <img src="../files/shu7.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -775,10 +755,10 @@
                 Вкус сохраняется на протяжении 8-10 проливов.
 	        </way>
                 <photo>
-                <img src="files/shu8.jpg" class="teaphoto"/>
+                <img src="../files/shu8.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -811,10 +791,10 @@
                 Хорошо держит вкус на протяжении 6-8 проливов.
 			    </way>
                 <photo>
-                <img src="files/shu9.jpg" class="teaphoto"/>
+                <img src="../files/shu9.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -849,10 +829,10 @@
                 Хорошо держит вкус на протяжении 6-8 проливов.
 		</way>
                 <photo>
-                <img src="files/shu10.jpg" class="teaphoto"/>
+                <img src="../files/shu10.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -885,10 +865,10 @@
                 Вкус сохраняется на протяжении 9-10 проливов.
 		</way>
                 <photo>
-                <img src="files/shu11.jpg" class="teaphoto"/>
+                <img src="../files/shu11.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -921,10 +901,10 @@
                 Хорошо держит вкус на протяжении 7-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/shu12.jpg" class="teaphoto"/>
+                <img src="../files/shu12.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -957,10 +937,10 @@
                 Вкус сохраняется на протяжении 9-12 проливов.
 	        </way>
                 <photo>
-                <img src="files/shu13.jpg" class="teaphoto"/>
+                <img src="../files/shu13.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -993,10 +973,10 @@
                 Хорошо держит вкус на протяжении 7-9 проливов.
 	        </way>
                 <photo>
-                <img src="files/shu14.jpg" class="teaphoto"/>
+                <img src="../files/shu14.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -1021,10 +1001,10 @@
                 Также этот чай можно заваривать длительным настаиванием. В этом случае понадобится 1 чайная ложка сенчи в пропорции на 250-300 мл воды.
 		</way>
                 <photo>
-                <img src="files/shu15.jpg" class="teaphoto"/>
+                <img src="../files/shu15.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -1060,10 +1040,10 @@
                 Вкус сохраняется на протяжении 8-10 проливов.
 		</way>
                 <photo>
-                <img src="files/shur1.jpg" class="teaphoto"/>
+                <img src="../files/shur1.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -1096,10 +1076,10 @@
                 Хорошо держит вкус на протяжении 6-7 проливов.
 		</way>
                 <photo>
-                <img src="files/shur2.jpg" class="teaphoto"/>
+                <img src="../files/shur2.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent class="ispresent">
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -1129,10 +1109,10 @@
                 Вкус сохраняется на протяжении 6-7 проливов.
 			    </way>
                 <photo>
-                <img src="files/shur3.jpg" class="teaphoto"/>
+                <img src="../files/shur3.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -1167,10 +1147,10 @@
                 Вкус сохраняется на протяжении 7-9 проливов.
 		</way>
                 <photo>
-                <img src="files/shur4.jpg" class="teaphoto"/>
+                <img src="../files/shur4.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -1200,10 +1180,10 @@
                 Вкус сохраняется на протяжении 6-7 проливов.
 			    </way>
                 <photo>
-                <img src="files/shur5.jpg" class="teaphoto"/>
+                <img src="../files/shur5.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -1236,10 +1216,10 @@
                 Отлично держит вкус на протяжении 8-10 завариваний.
                 </way>
                 <photo>
-                <img src="files/shur6.jpg" class="teaphoto"/>
+                <img src="../files/shur6.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -1272,10 +1252,10 @@
                 Отлично держит вкус на протяжении 8-10 завариваний.
                 </way>
                 <photo>
-                <img src="files/shur7.jpg" class="teaphoto"/>
+                <img src="../files/shur7.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -1308,10 +1288,10 @@
                 Вкус сохраняется на протяжении 8-10 проливов.
 	        </way>
                 <photo>
-                <img src="files/shur8.jpg" class="teaphoto"/>
+                <img src="../files/shur8.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -1344,10 +1324,10 @@
                 Хорошо держит вкус на протяжении 6-8 проливов.
 			    </way>
                 <photo>
-                <img src="files/shur9.jpg" class="teaphoto"/>
+                <img src="../files/shur9.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -1378,10 +1358,10 @@
                 Хорошо держит вкус на протяжении 6-8 проливов.
 		</way>
                 <photo>
-                <img src="files/shur10.jpg" class="teaphoto"/>
+                <img src="../files/shur10.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -1412,10 +1392,10 @@
                 Вкус сохраняется на протяжении 9-10 проливов.
 		</way>
                 <photo>
-                <img src="files/shur11.jpg" class="teaphoto"/>
+                <img src="../files/shur11.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -1446,10 +1426,10 @@
                 Хорошо держит вкус на протяжении 7-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/shur12.jpg" class="teaphoto"/>
+                <img src="../files/shur12.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -1482,10 +1462,10 @@
                 Вкус сохраняется на протяжении 9-12 проливов.
 	        </way>
                 <photo>
-                <img src="files/shur13.jpg" class="teaphoto"/>
+                <img src="../files/shur13.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -1518,10 +1498,10 @@
                 Хорошо держит вкус на протяжении 7-9 проливов.
 	        </way>
                 <photo>
-                <img src="files/shur14.jpg" class="teaphoto"/>
+                <img src="../files/shur14.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -1548,10 +1528,10 @@
                 Также этот чай можно заваривать длительным настаиванием. В этом случае понадобится 1 чайная ложка сенчи в пропорции на 250-300 мл воды.
 		</way>
                 <photo>
-                <img src="files/lao shou.jpg" class="teaphoto"/>
+                <img src="../files/lao shou.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шу пуэр
@@ -1589,10 +1569,10 @@
                 Вкус не теряется на протяжении 8-10 проливов;
 		</way>
                 <photo>
-                <img src="files/shenp1.jpg" class="teaphoto"/>
+                <img src="../files/shenp1.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -1626,10 +1606,10 @@
 	
 		</way>
                 <photo>
-                <img src="files/shenp2.jpg" class="teaphoto"/>
+                <img src="../files/shenp2.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent class="ispresent">
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -1663,10 +1643,10 @@
 	
 			    </way>
                 <photo>
-                <img src="files/shenp3.jpg" class="teaphoto"/>
+                <img src="../files/shenp3.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -1698,10 +1678,10 @@
 	
 		</way>
                 <photo>
-                <img src="files/shenp4.jpg" class="teaphoto"/>
+                <img src="../files/shenp4.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -1735,10 +1715,10 @@
 	
 			    </way>
                 <photo>
-                <img src="files/shenp5.jpg" class="teaphoto"/>
+                <img src="../files/shenp5.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -1771,10 +1751,10 @@
                 Отлично держит вкус на протяжении 8-10 завариваний.
                 </way>
                 <photo>
-                <img src="files/shenp6.jpg" class="teaphoto"/>
+                <img src="../files/shenp6.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -1807,10 +1787,10 @@
 	
                 </way>
                 <photo>
-                <img src="files/shenp7.jpg" class="teaphoto"/>
+                <img src="../files/shenp7.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -1844,10 +1824,10 @@
 	
 	        </way>
                 <photo>
-                <img src="files/shenp8.jpg" class="teaphoto"/>
+                <img src="../files/shenp8.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -1879,10 +1859,10 @@
 	
 			    </way>
                 <photo>
-                <img src="files/shenp9.jpg" class="teaphoto"/>
+                <img src="../files/shenp9.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -1918,10 +1898,10 @@
 	
 		</way>
                 <photo>
-                <img src="files/shenp10.jpg" class="teaphoto"/>
+                <img src="../files/shenp10.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -1953,10 +1933,10 @@
 	
 		</way>
                 <photo>
-                <img src="files/shenp11.jpg" class="teaphoto"/>
+                <img src="../files/shenp11.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -1989,10 +1969,10 @@
 	
 			    </way>
                 <photo>
-                <img src="files/shenp12.jpg" class="teaphoto"/>
+                <img src="../files/shenp12.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -2024,10 +2004,10 @@
 	
 	        </way>
                 <photo>
-                <img src="files/shenp13.jpg" class="teaphoto"/>
+                <img src="../files/shenp13.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -2059,10 +2039,10 @@
 	
 	        </way>
                 <photo>
-                <img src="files/shenp14.jpg" class="teaphoto"/>
+                <img src="../files/shenp14.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -2092,10 +2072,10 @@
 Вкус не теряется на протяжении 8-10 проливов;
 	</way>
                 <photo>
-                <img src="files/shenp15.jpg" class="teaphoto"/>
+                <img src="../files/shenp15.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -2130,10 +2110,10 @@
                 Вкус не теряется на протяжении 8-10 проливов;
 		</way>
                 <photo>
-                <img src="files/shenr1.jpg" class="teaphoto"/>
+                <img src="../files/shenr1.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -2165,10 +2145,10 @@
 	
 		</way>
                 <photo>
-                <img src="files/shenr2.jpg" class="teaphoto"/>
+                <img src="../files/shenr2.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent class="ispresent">
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -2202,10 +2182,10 @@
 	
 			    </way>
                 <photo>
-                <img src="files/shenr3.jpg" class="teaphoto"/>
+                <img src="../files/shenr3.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -2239,10 +2219,10 @@
 	
 		</way>
                 <photo>
-                <img src="files/shenr4.jpg" class="teaphoto"/>
+                <img src="../files/shenr4.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -2276,10 +2256,10 @@
 	
 			    </way>
                 <photo>
-                <img src="files/shenr5.jpg" class="teaphoto"/>
+                <img src="../files/shenr5.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -2310,10 +2290,10 @@
                 Отлично держит вкус на протяжении 8-10 завариваний.
                 </way>
                 <photo>
-                <img src="files/shenr6.jpg" class="teaphoto"/>
+                <img src="../files/shenr6.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -2345,10 +2325,10 @@
 	
                 </way>
                 <photo>
-                <img src="files/shenr7.jpg" class="teaphoto"/>
+                <img src="../files/shenr7.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -2380,10 +2360,10 @@
 	
 	        </way>
                 <photo>
-                <img src="files/shenr8.jpg" class="teaphoto"/>
+                <img src="../files/shenr8.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -2415,10 +2395,10 @@
 	
 			    </way>
                 <photo>
-                <img src="files/shenr9.jpg" class="teaphoto"/>
+                <img src="../files/shenr9.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -2452,10 +2432,10 @@
 	
 		</way>
                 <photo>
-                <img src="files/shenr10.jpg" class="teaphoto"/>
+                <img src="../files/shenr10.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -2487,10 +2467,10 @@
 	
 		</way>
                 <photo>
-                <img src="files/shenr11.jpg" class="teaphoto"/>
+                <img src="../files/shenr11.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -2526,10 +2506,10 @@
 	
 			    </way>
                 <photo>
-                <img src="files/shenr12.jpg" class="teaphoto"/>
+                <img src="../files/shenr12.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -2561,10 +2541,10 @@
 	
 	        </way>
                 <photo>
-                <img src="files/shenr13.jpg" class="teaphoto"/>
+                <img src="../files/shenr13.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -2602,10 +2582,10 @@
 	
 	        </way>
                 <photo>
-                <img src="files/shenr14.jpg" class="teaphoto"/>
+                <img src="../files/shenr14.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -2635,10 +2615,10 @@
 Вкус не теряется на протяжении 8-10 проливов;
 	</way>
                 <photo>
-                <img src="files/shenr15.jpg" class="teaphoto"/>
+                <img src="../files/shenr15.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -2672,10 +2652,10 @@
 			    Отлично держит вкус на протяжении 6 проливов.
 			    </way>
                 <photo>
-                <img src="files/dhp1.jpg" class="teaphoto"/>
+                <img src="../files/dhp1.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 уишаньские улуны
@@ -2705,10 +2685,10 @@
                 Хорошо держит вкус на протяжении 4-6 проливов.
 			    </way>
                 <photo>
-                <img src="files/dhp2.jpg" class="teaphoto"/>
+                <img src="../files/dhp2.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 уишаньские улуны
@@ -2740,10 +2720,10 @@
                 Хорошо держит вкус на протяжении 4-6 проливов.
 			    </way>
                 <photo>
-                <img src="files/ci-lan.jpg" class="teaphoto"/>
+                <img src="../files/ci-lan.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 уишаньские улуны
@@ -2772,10 +2752,10 @@
                 Хорошо держит вкус на протяжении 6-7 проливов.
 			    </way>
                 <photo>
-                <img src="files/zhou-guj.jpg" class="teaphoto"/>
+                <img src="../files/zhou-guj.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 уишаньские улуны
@@ -2808,10 +2788,10 @@
                 Заваривается без потери вкуса на протяжении 7-8 проливов.
 			    </way>
                 <photo>
-                <img src="files/shuj-czin-guj.jpg" class="teaphoto"/>
+                <img src="../files/shuj-czin-guj.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 уишаньские улуны
@@ -2842,10 +2822,10 @@
                 Заваривается без потери вкуса на протяжении 7-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/lao-da-hun-pao-2006.jpg" class="teaphoto"/>
+                <img src="../files/lao-da-hun-pao-2006.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 уишаньские улуны
@@ -2877,10 +2857,10 @@
                 Хорошо держит вкус на протяжении 6-7 проливов.
 			    </way>
                 <photo>
-                <img src="files/ui-mjej-chzan.jpg" class="teaphoto"/>
+                <img src="../files/ui-mjej-chzan.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 уишаньские улуны
@@ -2911,10 +2891,10 @@
                 Хорошо держит вкус на протяжении 8-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/gao-cong-shuixian.jpg" class="teaphoto"/>
+                <img src="../files/gao-cong-shuixian.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 уишаньские улуны
@@ -2947,10 +2927,10 @@
                 Хорошо держит вкус на протяжении 8-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/d-h-p.jpg" class="teaphoto"/>
+                <img src="../files/d-h-p.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 уишаньские улуны
@@ -2983,10 +2963,10 @@
 			    Отлично держит вкус на протяжении 10-12 проливов.
 			    </way>
                 <photo>
-                <img src="files/te-lohan.jpg" class="teaphoto"/>
+                <img src="../files/te-lohan.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 уишаньские улуны
@@ -3015,10 +2995,10 @@
                 Отлично сохраняет вкус на протяжении 7-8 проливов.
 			    </way>
                 <photo>
-                <img src="files/czin-guan-in.jpg" class="teaphoto"/>
+                <img src="../files/czin-guan-in.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 уишаньские улуны
@@ -3048,10 +3028,10 @@
                 Хорошо держит вкус на протяжении 7-8 проливов.
 			    </way>
                 <photo>
-                <img src="files/caj-cha.jpg" class="teaphoto"/>
+                <img src="../files/caj-cha.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 уишаньские улуны
@@ -3081,10 +3061,10 @@
                 Отлично держит вкус на протяжении 8-10 проливов.
 			    </way>
                 <photo>
-                <img src="files/fo-shou.jpg" class="teaphoto"/>
+                <img src="../files/fo-shou.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 уишаньские улуны
@@ -3115,10 +3095,10 @@
                 Заваривается на протяжении 7-18 проливов.
 			    </way>
                 <photo>
-                <img src="files/rougui-guo-xiang.jpg" class="teaphoto"/>
+                <img src="../files/rougui-guo-xiang.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 уишаньские улуны
@@ -3149,10 +3129,10 @@
                 Заваривается без потери вкуса на протяжении 7-8 проливов.
 			    </way>
                 <photo>
-                <img src="files/ma-tou-zhou-guj.jpg" class="teaphoto"/>
+                <img src="../files/ma-tou-zhou-guj.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 уишаньские улуны
@@ -3183,10 +3163,10 @@
 Вкус сохраняется на протяжении 5-7 проливов
 			    </way>
                 <photo>
-                <img src="files/taiw1.jpg" class="teaphoto"/>
+                <img src="../files/taiw1.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -3219,10 +3199,10 @@
                 Хорошо держит вкус на протяжении 4-6 проливов.
 			    </way>
                 <photo>
-                <img src="files/taiw2.jpg" class="teaphoto"/>
+                <img src="../files/taiw2.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -3250,10 +3230,10 @@
 – Заваривается на протяжении 8-10 проливов.
 			    </way>
                 <photo>
-                <img src="files/taiw3.jpg" class="teaphoto"/>
+                <img src="../files/taiw3.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -3279,10 +3259,10 @@
 – Заваривается на протяжении 8-10 проливов.
 			    </way>
                 <photo>
-                <img src="files/taiw4.jpg" class="teaphoto"/>
+                <img src="../files/taiw4.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -3313,10 +3293,10 @@
                 Заваривается без потери вкуса на протяжении 7-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/taiw5.jpg" class="teaphoto"/>
+                <img src="../files/taiw5.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -3349,10 +3329,10 @@
                 Хорошо держит вкус на протяжении 6-7 проливов.
 			    </way>
                 <photo>
-                <img src="files/taiw6.jpg" class="teaphoto"/>
+                <img src="../files/taiw6.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -3383,10 +3363,10 @@
                 Хорошо держит вкус на протяжении 8-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/taiw7.jpg" class="teaphoto"/>
+                <img src="../files/taiw7.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -3419,10 +3399,10 @@
                 Хорошо держит вкус на протяжении 8-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/taiw8.jpg" class="teaphoto"/>
+                <img src="../files/taiw8.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -3456,10 +3436,10 @@
 			    Отлично держит вкус на протяжении 10-12 проливов.
 			    </way>
                 <photo>
-                <img src="files/taiw9.jpg" class="teaphoto"/>
+                <img src="../files/taiw9.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -3488,10 +3468,10 @@
                 Отлично сохраняет вкус на протяжении 7-8 проливов.
 			    </way>
                 <photo>
-                <img src="files/taiw10.jpg" class="teaphoto"/>
+                <img src="../files/taiw10.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -3522,10 +3502,10 @@
                 Хорошо держит вкус на протяжении 7-8 проливов.
 			    </way>
                 <photo>
-                <img src="files/taiw11.jpg" class="teaphoto"/>
+                <img src="../files/taiw11.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -3558,10 +3538,10 @@
                 Отлично держит вкус на протяжении 10-12 проливов.
                 </way>
                 <photo>
-                <img src="files/taiw12.jpg" class="teaphoto"/>
+                <img src="../files/taiw12.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -3596,10 +3576,10 @@
                 Отлично держит вкус на протяжении 8-10 проливов.
 			    </way>
                 <photo>
-                <img src="files/taiw13.jpg" class="teaphoto"/>
+                <img src="../files/taiw13.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -3634,10 +3614,10 @@
                 Заваривается на протяжении 7-18 проливов.
 			    </way>
                 <photo>
-                <img src="files/taiw14.jpg" class="teaphoto"/>
+                <img src="../files/taiw14.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 гуандунские улуны
@@ -3666,10 +3646,10 @@
 – Выдерживает до 10-12 завариваний.
 			    </way>
                 <photo>
-                <img src="files/taiw15.jpg" class="teaphoto"/>
+                <img src="../files/taiw15.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 гуандунские улуны
@@ -3699,10 +3679,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/gdn1.jpg" class="teaphoto"/>
+                <img src="../files/gdn1.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 гуандунские улуны
@@ -3731,10 +3711,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/gdn2.jpg" class="teaphoto"/>
+                <img src="../files/gdn2.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 гуандунские улуны
@@ -3761,10 +3741,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/gdn3.jpg" class="teaphoto"/>
+                <img src="../files/gdn3.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 гуандунские улуны
@@ -3793,10 +3773,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/gdn4.jpg" class="teaphoto"/>
+                <img src="../files/gdn4.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 гуандунские улуны
@@ -3823,10 +3803,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/gdn5.jpg" class="teaphoto"/>
+                <img src="../files/gdn5.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 гуандунские улуны
@@ -3853,10 +3833,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/gdn6.jpg" class="teaphoto"/>
+                <img src="../files/gdn6.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 гуандунские улуны
@@ -3885,10 +3865,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/gdn7.jpg" class="teaphoto"/>
+                <img src="../files/gdn7.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 гуандунские улуны
@@ -3917,10 +3897,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/gdn8.jpg" class="teaphoto"/>
+                <img src="../files/gdn8.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 гуандунские улуны
@@ -3947,10 +3927,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/gdn3.jpg" class="teaphoto"/>
+                <img src="../files/gdn3.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 гуандунские улуны
@@ -3977,10 +3957,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/gdn10.jpg" class="teaphoto"/>
+                <img src="../files/gdn10.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 гуандунские улуны
@@ -4007,10 +3987,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/gdn11.jpg" class="teaphoto"/>
+                <img src="../files/gdn11.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 гуандунские улуны
@@ -4037,10 +4017,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
                 </way>
                 <photo>
-                <img src="files/gdn12.jpg" class="teaphoto"/>
+                <img src="../files/gdn12.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 гуандунские улуны
@@ -4069,10 +4049,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/gdn13.jpg" class="teaphoto"/>
+                <img src="../files/gdn13.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 гуандунские улуны
@@ -4103,10 +4083,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/gdn14.jpg" class="teaphoto"/>
+                <img src="../files/gdn14.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 гуандунские улуны
@@ -4135,10 +4115,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/gdn15.jpg" class="teaphoto"/>
+                <img src="../files/gdn15.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 гуандунские улуны
@@ -4169,10 +4149,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/y1.jpg" class="teaphoto"/>
+                <img src="../files/y1.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 юннаньские улуны
@@ -4205,10 +4185,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/y2.jpg" class="teaphoto"/>
+                <img src="../files/y2.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 юннаньские улуны
@@ -4237,10 +4217,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/y3.jpg" class="teaphoto"/>
+                <img src="../files/y3.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 юннаньские улуны
@@ -4269,10 +4249,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/y4.jpg" class="teaphoto"/>
+                <img src="../files/y4.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 юннаньские улуны
@@ -4301,10 +4281,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/y5.jpg" class="teaphoto"/>
+                <img src="../files/y5.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 юннаньские улуны
@@ -4331,10 +4311,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/y6.jpg" class="teaphoto"/>
+                <img src="../files/y6.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 юннаньские улуны
@@ -4363,10 +4343,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/y6.jpg" class="teaphoto"/>
+                <img src="../files/y6.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 юннаньские улуны
@@ -4395,10 +4375,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/y8.jpg" class="teaphoto"/>
+                <img src="../files/y8.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 юннаньские улуны
@@ -4429,10 +4409,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/y9.jpg" class="teaphoto"/>
+                <img src="../files/y9.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 юннаньские улуны
@@ -4463,10 +4443,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/y12.jpg" class="teaphoto"/>
+                <img src="../files/y12.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 юннаньские улуны
@@ -4497,10 +4477,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/y11.jpg" class="teaphoto"/>
+                <img src="../files/y11.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 гуандунские улуны
@@ -4525,10 +4505,10 @@
 Прекрасный улун, отлично раскрывающий и передающий все особенности и нюансы высокогорного чая. Идеален как для утреннего, так и послеобеденного времени. Приятно освежает восприятие, снимает усталость, напряжение и настраивает на спокойную волну.
                 </way>
                 <photo>
-                <img src="files/y13.jpg" class="teaphoto"/>
+                <img src="../files/y13.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 юннаньские улуны
@@ -4557,10 +4537,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/y14.jpg" class="teaphoto"/>
+                <img src="../files/y14.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 юннаньские улуны
@@ -4591,10 +4571,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/y15.jpg" class="teaphoto"/>
+                <img src="../files/y15.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 юннаньские улуны
@@ -4623,10 +4603,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/y16.jpg" class="teaphoto"/>
+                <img src="../files/y16.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 юннаньские улуны
@@ -4654,10 +4634,10 @@
                 Не теряет вкус на протяжении 7-9 проливов.
 		</way>
                 <photo>
-                <img src="files/TG1.jpg" class="teaphoto"/>
+                <img src="../files/TG1.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 южнофузяньские улуны
@@ -4686,10 +4666,10 @@
                 Отлично сохраняет вкус на протяжении 7-8 проливов.
 			    </way>
                 <photo>
-                <img src="files/TG2.jpg" class="teaphoto"/>
+                <img src="../files/TG2.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 южнофузяньские улуны
@@ -4715,10 +4695,10 @@
                 Не теряет вкус на протяжении 7-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/TG3.jpg" class="teaphoto"/>
+                <img src="../files/TG3.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 южнофузяньские улуны
@@ -4745,10 +4725,10 @@
                 Не теряет вкус на протяжении 7-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/TG4.jpg" class="teaphoto"/>
+                <img src="../files/TG4.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 южнофузяньские улуны
@@ -4777,10 +4757,10 @@
                 Не теряет вкус на протяжении 7-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/TG5.jpg" class="teaphoto"/>
+                <img src="../files/TG5.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 южнофузяньские улуны
@@ -4809,10 +4789,10 @@
                 Не теряет вкус на протяжении 7-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/TG6.jpg" class="teaphoto"/>
+                <img src="../files/TG6.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 южнофузяньские улуны
@@ -4839,10 +4819,10 @@
                 Не теряет вкус на протяжении 7-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/TG7.jpg" class="teaphoto"/>
+                <img src="../files/TG7.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 южнофузяньские улуны
@@ -4869,10 +4849,10 @@
                 Не теряет вкус на протяжении 7-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/TG8.jpg" class="teaphoto"/>
+                <img src="../files/TG8.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 южнофузяньские улуны
@@ -4899,10 +4879,10 @@
                 Не теряет вкус на протяжении 7-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/TG9.jpg" class="teaphoto"/>
+                <img src="../files/TG9.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 южнофузяньские улуны
@@ -4929,10 +4909,10 @@
                 Не теряет вкус на протяжении 7-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/TG10.jpg" class="teaphoto"/>
+                <img src="../files/TG10.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 южнофузяньские улуны
@@ -4959,10 +4939,10 @@
                 Не теряет вкус на протяжении 7-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/TG11.jpg" class="teaphoto"/>
+                <img src="../files/TG11.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 южнофузяньские улуны
@@ -4989,10 +4969,10 @@
                 Не теряет вкус на протяжении 7-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/TG12.jpg" class="teaphoto"/>
+                <img src="../files/TG12.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 южнофузяньские улуны
@@ -5019,10 +4999,10 @@
                 Не теряет вкус на протяжении 7-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/TG13.jpg" class="teaphoto"/>
+                <img src="../files/TG13.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 южнофузяньские улуны
@@ -5049,10 +5029,10 @@
                 Не теряет вкус на протяжении 7-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/TG14.jpg" class="teaphoto"/>
+                <img src="../files/TG14.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 южнофузяньские улуны
@@ -5081,10 +5061,10 @@
                 Не теряет вкус на протяжении 7-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/TG15.jpg" class="teaphoto"/>
+                <img src="../files/TG15.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 южнофузяньские улуны
@@ -5117,10 +5097,10 @@
                 Полноценно заваривается на протяжении 6-7 проливов.
 		</way>
                 <photo>
-                <img src="files/red1.jpg" class="teaphoto"/>
+                <img src="../files/red1.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 красный чай
@@ -5153,10 +5133,10 @@
                         Хорошо держит вкус на протяжении 5-6 проливов.
 			    </way>
                 <photo>
-                <img src="files/red2.jpg" class="teaphoto"/>
+                <img src="../files/red2.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 красный чай
@@ -5189,10 +5169,10 @@
                         Хорошо держит вкус на протяжении 5-6 проливов.
 			    </way>
                 <photo>
-                <img src="files/tzin ya to chyn.jpg" class="teaphoto"/>
+                <img src="../files/tzin ya to chyn.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 красный чай
@@ -5223,10 +5203,10 @@
                         Хорошо держит вкус на протяжении 5-6 проливов.
 			    </way>
                 <photo>
-                <img src="files/tzin tzui mei.jpg" class="teaphoto"/>
+                <img src="../files/tzin tzui mei.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 красный чай
@@ -5256,10 +5236,10 @@
                         Хорошо держит вкус на протяжении 5-6 проливов.
 			    </way>
                 <photo>
-                <img src="files/red5.jpg" class="teaphoto"/>
+                <img src="../files/red5.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 красный чай
@@ -5289,10 +5269,10 @@
                         Хорошо держит вкус на протяжении 5-6 проливов.
 			    </way>
                 <photo>
-                <img src="files/red5.jpg" class="teaphoto"/>
+                <img src="../files/red5.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 красный чай
@@ -5323,10 +5303,10 @@
                         Хорошо держит вкус на протяжении 5-6 проливов.
 			    </way>
                 <photo>
-                <img src="files/red6.jpg" class="teaphoto"/>
+                <img src="../files/red6.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 красный чай
@@ -5357,10 +5337,10 @@
                         Хорошо держит вкус на протяжении 5-6 проливов.
 			    </way>
                 <photo>
-                <img src="files/red7.jpg" class="teaphoto"/>
+                <img src="../files/red7.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 красный чай
@@ -5387,10 +5367,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/y6.jpg" class="teaphoto"/>
+                <img src="../files/y6.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 красный чай
@@ -5419,10 +5399,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/y6.jpg" class="teaphoto"/>
+                <img src="../files/y6.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 красный чай
@@ -5451,10 +5431,10 @@
                 Вкус не теряется на протяжении 7-8 проливов;
 			    </way>
                 <photo>
-                <img src="files/y8.jpg" class="teaphoto"/>
+                <img src="../files/y8.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 красный чай
@@ -5485,10 +5465,10 @@
                         Хорошо держит вкус на протяжении 5-6 проливов.
 			    </way>
                 <photo>
-                <img src="files/red11.jpg" class="teaphoto"/>
+                <img src="../files/red11.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 красный чай
@@ -5519,10 +5499,10 @@
                         Хорошо держит вкус на протяжении 5-6 проливов.
 			    </way>
                 <photo>
-                <img src="files/red12.jpg" class="teaphoto"/>
+                <img src="../files/red12.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 красный чай
@@ -5555,10 +5535,10 @@
                         Хорошо держит вкус на протяжении 5-6 проливов.
 			    </way>
                 <photo>
-                <img src="files/red13.jpg" class="teaphoto"/>
+                <img src="../files/red13.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 красный чай
@@ -5591,10 +5571,10 @@
                         Хорошо держит вкус на протяжении 5-6 проливов.
 			    </way>
                 <photo>
-                <img src="files/red14.jpg" class="teaphoto"/>
+                <img src="../files/red14.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 красный чай
@@ -5627,10 +5607,10 @@
                         Хорошо держит вкус на протяжении 5-6 проливов.
 			    </way>
                 <photo>
-                <img src="files/red15.jpg" class="teaphoto"/>
+                <img src="../files/red15.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 красный чай
@@ -5654,10 +5634,10 @@
 		Для заваривания лучше всего использовать стеклянную или фарфоровую посуду. Оптимальная температура воды – 80-85*С. Соотношение заварки – 3-5 гр. на 100 мл. воды. Хорошо держит вкус на протяжении 6-7 проливов.
 		</way>
                 <photo>
-                <img src="files/green1.jpg" class="teaphoto"/>
+                <img src="../files/green1.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 зелёный чай
@@ -5680,10 +5660,10 @@
 				Для заваривания лучше всего использовать стеклянную или фарфоровую посуду. Оптимальная температура воды – 80-85*С. Соотношение заварки – 3-5 гр. на 100 мл. воды. Хорошо держит вкус на протяжении 6-7 проливов.
 	        </way>
                 <photo>
-                <img src="files/green2.jpg" class="teaphoto"/>
+                <img src="../files/green2.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 зелёный чай
@@ -5710,10 +5690,10 @@
                 Также этот чай можно заваривать длительным настаиванием. В этом случае понадобится 1 чайная ложка сенчи в пропорции на 250-300 мл воды.
 			    </way>
                 <photo>
-                <img src="files/green3.jpg" class="teaphoto"/>
+                <img src="../files/green3.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 зелёный чай
@@ -5740,10 +5720,10 @@
                 Также этот чай можно заваривать длительным настаиванием. В этом случае понадобится 1 чайная ложка сенчи в пропорции на 250-300 мл воды.
 			    </way>
                 <photo>
-                <img src="files/green4.jpg" class="teaphoto"/>
+                <img src="../files/green4.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 зелёный чай
@@ -5770,10 +5750,10 @@
                 Также этот чай можно заваривать длительным настаиванием. В этом случае понадобится 1 чайная ложка сенчи в пропорции на 250-300 мл воды.
 			    </way>
                 <photo>
-                <img src="files/green5.jpg" class="teaphoto"/>
+                <img src="../files/green5.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 зелёный чай
@@ -5798,10 +5778,10 @@
                 Также этот чай можно заваривать длительным настаиванием. В этом случае понадобится 1 чайная ложка сенчи в пропорции на 250-300 мл воды.
 			    </way>
                 <photo>
-                <img src="files/green6.jpg" class="teaphoto"/>
+                <img src="../files/green6.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 зелёный чай
@@ -5826,10 +5806,10 @@
                 Также этот чай можно заваривать длительным настаиванием. В этом случае понадобится 1 чайная ложка сенчи в пропорции на 250-300 мл воды.
 			    </way>
                 <photo>
-                <img src="files/green7.jpg" class="teaphoto"/>
+                <img src="../files/green7.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 зелёный чай
@@ -5854,10 +5834,10 @@
                 Также этот чай можно заваривать длительным настаиванием. В этом случае понадобится 1 чайная ложка сенчи в пропорции на 250-300 мл воды.
 			    </way>
                 <photo>
-                <img src="files/green8.jpg" class="teaphoto"/>
+                <img src="../files/green8.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 зелёный чай
@@ -5883,10 +5863,10 @@
                 Также этот чай можно заваривать длительным настаиванием. В этом случае понадобится 1 чайная ложка сенчи в пропорции на 250-300 мл воды.
 			    </way>
                 <photo>
-                <img src="files/green9.jpg" class="teaphoto"/>
+                <img src="../files/green9.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 зелёный чай
@@ -5912,10 +5892,10 @@
                 Также этот чай можно заваривать длительным настаиванием. В этом случае понадобится 1 чайная ложка сенчи в пропорции на 250-300 мл воды.
 			    </way>
                 <photo>
-                <img src="files/green10.jpg" class="teaphoto"/>
+                <img src="../files/green10.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 зелёный чай
@@ -5940,10 +5920,10 @@
                 Также этот чай можно заваривать длительным настаиванием. В этом случае понадобится 1 чайная ложка сенчи в пропорции на 250-300 мл воды.
 			    </way>
                 <photo>
-                <img src="files/green11.jpg" class="teaphoto"/>
+                <img src="../files/green11.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 зелёный чай
@@ -5968,10 +5948,10 @@
                 Также этот чай можно заваривать длительным настаиванием. В этом случае понадобится 1 чайная ложка сенчи в пропорции на 250-300 мл воды.
 			    </way>
                 <photo>
-                <img src="files/green12.jpg" class="teaphoto"/>
+                <img src="../files/green12.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 зелёный чай
@@ -5996,10 +5976,10 @@
                 Также этот чай можно заваривать длительным настаиванием. В этом случае понадобится 1 чайная ложка сенчи в пропорции на 250-300 мл воды.
 			    </way>
                 <photo>
-                <img src="files/green13.jpg" class="teaphoto"/>
+                <img src="../files/green13.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 зелёный чай
@@ -6024,10 +6004,10 @@
                 Также этот чай можно заваривать длительным настаиванием. В этом случае понадобится 1 чайная ложка сенчи в пропорции на 250-300 мл воды.
 			    </way>
                 <photo>
-                <img src="files/green14.jpg" class="teaphoto"/>
+                <img src="../files/green14.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 зелёный чай
@@ -6054,10 +6034,10 @@
                 Также этот чай можно заваривать длительным настаиванием. В этом случае понадобится 1 чайная ложка сенчи в пропорции на 250-300 мл воды.
 			    </way>
                 <photo>
-                <img src="files/green15.jpg" class="teaphoto"/>
+                <img src="../files/green15.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 зелёный чай
@@ -6086,10 +6066,10 @@
 Вкус сохраняется на протяжении 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/wh1.jpg" class="teaphoto"/>
+                <img src="../files/wh1.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 белый чай
@@ -6116,10 +6096,10 @@
 Вкус сохраняется на протяжении 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/wh2.jpg" class="teaphoto"/>
+                <img src="../files/wh2.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 белый чай
@@ -6146,10 +6126,10 @@
 Вкус сохраняется на протяжении 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/wh3.jpg" class="teaphoto"/>
+                <img src="../files/wh3.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 белый чай
@@ -6176,10 +6156,10 @@
 Вкус сохраняется на протяжении 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/wh4.jpg" class="teaphoto"/>
+                <img src="../files/wh4.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 белый чай
@@ -6206,10 +6186,10 @@
 Вкус сохраняется на протяжении 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/wh5.jpg" class="teaphoto"/>
+                <img src="../files/wh5.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 белый чай
@@ -6236,10 +6216,10 @@
 Вкус сохраняется на протяжении 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/wh6.jpg" class="teaphoto"/>
+                <img src="../files/wh6.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 белый чай
@@ -6266,10 +6246,10 @@
 Вкус сохраняется на протяжении 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/wh7.jpg" class="teaphoto"/>
+                <img src="../files/wh7.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 белый чай
@@ -6298,10 +6278,10 @@
 Вкус сохраняется на протяжении 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/wh8.jpg" class="teaphoto"/>
+                <img src="../files/wh8.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 белый чай
@@ -6328,10 +6308,10 @@
 Вкус сохраняется на протяжении 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/wh9.jpg" class="teaphoto"/>
+                <img src="../files/wh9.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 белый чай
@@ -6360,10 +6340,10 @@
 Вкус сохраняется на протяжении 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/wh10.jpg" class="teaphoto"/>
+                <img src="../files/wh10.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 белый чай
@@ -6390,10 +6370,10 @@
 Вкус сохраняется на протяжении 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/wh11.jpg" class="teaphoto"/>
+                <img src="../files/wh11.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 белый чай
@@ -6420,10 +6400,10 @@
 Вкус сохраняется на протяжении 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/wh12.jpg" class="teaphoto"/>
+                <img src="../files/wh12.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 белый чай
@@ -6450,10 +6430,10 @@
 Вкус сохраняется на протяжении 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/wh13.jpg" class="teaphoto"/>
+                <img src="../files/wh13.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 белый чай
@@ -6480,10 +6460,10 @@
 Вкус сохраняется на протяжении 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/wh14.jpg" class="teaphoto"/>
+                <img src="../files/wh14.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 белый чай
@@ -6512,10 +6492,10 @@
 Вкус сохраняется на протяжении 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/wh15.jpg" class="teaphoto"/>
+                <img src="../files/wh15.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 белый чай
@@ -6544,10 +6524,10 @@
 Хорошо сохраняет вкус на протяжении 6-7 проливов.
                 </way>
                 <photo>
-                <img src="files/bl1.jpg" class="teaphoto"/>
+                <img src="../files/bl1.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 хэй ча
@@ -6574,10 +6554,10 @@
 Хорошо сохраняет вкус на протяжении 6-7 проливов.
                 </way>
                 <photo>
-                <img src="files/bl2.jpg" class="teaphoto"/>
+                <img src="../files/bl2.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 хэй ча
@@ -6608,10 +6588,10 @@
 Хорошо сохраняет вкус на протяжении 6-7 проливов.
                 </way>
                 <photo>
-                <img src="files/bl3.jpg" class="teaphoto"/>
+                <img src="../files/bl3.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 хэй ча
@@ -6639,10 +6619,10 @@
 Хорошо сохраняет вкус на протяжении 6-7 проливов.
                 </way>
                 <photo>
-                <img src="files/bl4.jpg" class="teaphoto"/>
+                <img src="../files/bl4.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 хэй ча
@@ -6671,10 +6651,10 @@
 Хорошо сохраняет вкус на протяжении 6-7 проливов.
                 </way>
                 <photo>
-                <img src="files/bl5.jpg" class="teaphoto"/>
+                <img src="../files/bl5.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 хэй ча
@@ -6703,10 +6683,10 @@
 Хорошо сохраняет вкус на протяжении 6-7 проливов.
                 </way>
                 <photo>
-                <img src="files/bl6.jpg" class="teaphoto"/>
+                <img src="../files/bl6.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 хэй ча
@@ -6733,10 +6713,10 @@
 Хорошо сохраняет вкус на протяжении 6-7 проливов.
                 </way>
                 <photo>
-                <img src="files/bl7.jpg" class="teaphoto"/>
+                <img src="../files/bl7.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 хэй ча
@@ -6763,10 +6743,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 Хорошо сохраняет вкус на протяжении 6-7 проливов.
                 </way>
                 <photo>
-                <img src="files/bl8.jpg" class="teaphoto"/>
+                <img src="../files/bl8.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 хэй ча
@@ -6793,10 +6773,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 Хорошо сохраняет вкус на протяжении 6-7 проливов.
                 </way>
                 <photo>
-                <img src="files/bl9.jpg" class="teaphoto"/>
+                <img src="../files/bl9.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 хэй ча
@@ -6825,10 +6805,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 Хорошо сохраняет вкус на протяжении 6-7 проливов.
                 </way>
                 <photo>
-                <img src="files/bl10.jpg" class="teaphoto"/>
+                <img src="../files/bl10.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 хэй ча
@@ -6857,10 +6837,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 Хорошо сохраняет вкус на протяжении 6-7 проливов.
                 </way>
                 <photo>
-                <img src="files/bl11.jpg" class="teaphoto"/>
+                <img src="../files/bl11.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 хэй ча
@@ -6891,10 +6871,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 Хорошо сохраняет вкус на протяжении 6-7 проливов.
                 </way>
                 <photo>
-                <img src="files/bl12.jpg" class="teaphoto"/>
+                <img src="../files/bl12.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 хэй ча
@@ -6925,10 +6905,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 Хорошо сохраняет вкус на протяжении 6-7 проливов.
                 </way>
                 <photo>
-                <img src="files/bl13.jpg" class="teaphoto"/>
+                <img src="../files/bl13.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 хэй ча
@@ -6957,10 +6937,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 Хорошо сохраняет вкус на протяжении 6-7 проливов.
                 </way>
                 <photo>
-                <img src="files/bl14.jpg" class="teaphoto"/>
+                <img src="../files/bl14.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 хэй ча
@@ -6987,10 +6967,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 Хорошо сохраняет вкус на протяжении 6-7 проливов.
                 </way>
                 <photo>
-                <img src="files/bl15.jpg" class="teaphoto"/>
+                <img src="../files/bl15.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 хэй ча
@@ -7018,10 +6998,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 Полноценно выдерживает 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/ye1.jpg" class="teaphoto"/>
+                <img src="../files/ye1.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 жёлтый чай
@@ -7047,10 +7027,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 Полноценно выдерживает 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/ye2.jpg" class="teaphoto"/>
+                <img src="../files/ye2.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 жёлтый чай
@@ -7076,10 +7056,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 Полноценно выдерживает 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/ye3.jpg" class="teaphoto"/>
+                <img src="../files/ye3.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 жёлтый чай
@@ -7109,10 +7089,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 Полноценно выдерживает 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/ye4.jpg" class="teaphoto"/>
+                <img src="../files/ye4.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 жёлтый чай
@@ -7144,10 +7124,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 Полноценно выдерживает 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/ye5.jpg" class="teaphoto"/>
+                <img src="../files/ye5.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 жёлтый чай
@@ -7173,10 +7153,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 Полноценно выдерживает 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/ye6.jpg" class="teaphoto"/>
+                <img src="../files/ye6.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 жёлтый чай
@@ -7204,10 +7184,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 Полноценно выдерживает 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/ye7.jpg" class="teaphoto"/>
+                <img src="../files/ye7.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 жёлтый чай
@@ -7235,10 +7215,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 Полноценно выдерживает 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/ye7.jpg" class="teaphoto"/>
+                <img src="../files/ye7.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 жёлтый чай
@@ -7274,10 +7254,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 Полноценно выдерживает 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/ye9.jpg" class="teaphoto"/>
+                <img src="../files/ye9.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 жёлтый чай
@@ -7303,10 +7283,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 Полноценно выдерживает 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/ye10.jpg" class="teaphoto"/>
+                <img src="../files/ye10.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 жёлтый чай
@@ -7332,10 +7312,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 Полноценно выдерживает 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/ye11.jpg" class="teaphoto"/>
+                <img src="../files/ye11.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 жёлтый чай
@@ -7361,10 +7341,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 Полноценно выдерживает 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/ye12.jpg" class="teaphoto"/>
+                <img src="../files/ye12.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 жёлтый чай
@@ -7396,10 +7376,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 Полноценно выдерживает 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/ye13.jpg" class="teaphoto"/>
+                <img src="../files/ye13.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 жёлтый чай
@@ -7433,10 +7413,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 Полноценно выдерживает 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/ye14.jpg" class="teaphoto"/>
+                <img src="../files/ye14.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 жёлтый чай
@@ -7466,10 +7446,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 Полноценно выдерживает 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/ye15.jpg" class="teaphoto"/>
+                <img src="../files/ye15.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 жёлтый чай
@@ -7504,10 +7484,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
                 Отлично держит вкус на протяжении 10-12 проливов.
                 </way>
                 <photo>
-                <img src="files/taiw12.jpg" class="teaphoto"/>
+                <img src="../files/taiw12.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -7542,10 +7522,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
                 Отлично держит вкус на протяжении 8-10 проливов.
 			    </way>
                 <photo>
-                <img src="files/taiw13.jpg" class="teaphoto"/>
+                <img src="../files/taiw13.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -7580,10 +7560,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
                 Заваривается на протяжении 7-18 проливов.
 			    </way>
                 <photo>
-                <img src="files/taiw14.jpg" class="teaphoto"/>
+                <img src="../files/taiw14.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 гуандунские улуны
@@ -7612,10 +7592,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 – Выдерживает до 10-12 завариваний.
 			    </way>
                 <photo>
-                <img src="files/taiw15.jpg" class="teaphoto"/>
+                <img src="../files/taiw15.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 гуандунские улуны
@@ -7647,10 +7627,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 	
 	        </way>
                 <photo>
-                <img src="files/shenr13.jpg" class="teaphoto"/>
+                <img src="../files/shenr13.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -7678,10 +7658,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 Полноценно выдерживает 9-10 проливов.
                 </way>
                 <photo>
-                <img src="files/ye7.jpg" class="teaphoto"/>
+                <img src="../files/ye7.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 жёлтый чай
@@ -7714,10 +7694,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
                         Хорошо держит вкус на протяжении 5-6 проливов.
 			    </way>
                 <photo>
-                <img src="files/red14.jpg" class="teaphoto"/>
+                <img src="../files/red14.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 красный чай
@@ -7751,10 +7731,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 	
 		</way>
                 <photo>
-                <img src="files/shenr10.jpg" class="teaphoto"/>
+                <img src="../files/shenr10.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -7787,10 +7767,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 			    Отлично держит вкус на протяжении 10-12 проливов.
 			    </way>
                 <photo>
-                <img src="files/te-lohan.jpg" class="teaphoto"/>
+                <img src="../files/te-lohan.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 южнофузяньские улуны
@@ -7820,10 +7800,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
                 Отлично держит вкус на протяжении 8-10 проливов.
 			    </way>
                 <photo>
-                <img src="files/fo-shou.jpg" class="teaphoto"/>
+                <img src="../files/fo-shou.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 уишаньские улуны
@@ -7854,10 +7834,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
                 Хорошо держит вкус на протяжении 8-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/taiw7.jpg" class="teaphoto"/>
+                <img src="../files/taiw7.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -7890,10 +7870,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
                 Хорошо держит вкус на протяжении 8-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/taiw8.jpg" class="teaphoto"/>
+                <img src="../files/taiw8.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -7925,10 +7905,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
 	
 	        </way>
                 <photo>
-                <img src="files/shenr13.jpg" class="teaphoto"/>
+                <img src="../files/shenr13.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 шен пуэр
@@ -7959,10 +7939,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
                 Заваривается без потери вкуса на протяжении 7-8 проливов.
 			    </way>
                 <photo>
-                <img src="files/ma-tou-zhou-guj.jpg" class="teaphoto"/>
+                <img src="../files/ma-tou-zhou-guj.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 уишаньские улуны
@@ -7993,10 +7973,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
                 Заваривается без потери вкуса на протяжении 7-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/lao-da-hun-pao-2006.jpg" class="teaphoto"/>
+                <img src="../files/lao-da-hun-pao-2006.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 уишаньские улуны
@@ -8021,10 +8001,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
                 Для питья мате традиционно используется калабас и бомбилья.
 		</way>
                 <photo>
-                <img src="files/ma1.jpg" class="teaphoto"/>
+                <img src="../files/ma1.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 мате
@@ -8047,10 +8027,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
                 Для питья мате традиционно используется калабас и бомбилья.
 		</way>
                 <photo>
-                <img src="files/ma2.jpg" class="teaphoto"/>
+                <img src="../files/ma2.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 мате
@@ -8074,10 +8054,10 @@ Dark Tea 2015 года от чайного завода Хунань, распо
                 Для питья мате традиционно используется калабас и бомбилья.
 		</way>
                 <photo>
-                <img src="files/ma3.jpg" class="teaphoto"/>
+                <img src="../files/ma3.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 мате
@@ -8101,10 +8081,10 @@ Pipore Elaborada Con Palo – классический вариант Йербы
                 Для питья мате традиционно используется калабас и бомбилья.
 		</way>
                 <photo>
-                <img src="files/ma4.jpg" class="teaphoto"/>
+                <img src="../files/ma4.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 мате
@@ -8127,10 +8107,10 @@ Pipore Elaborada Con Palo – классический вариант Йербы
                 Для питья мате традиционно используется калабас и бомбилья.
 		</way>
                 <photo>
-                <img src="files/ma5.jpg" class="teaphoto"/>
+                <img src="../files/ma5.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 мате
@@ -8155,10 +8135,10 @@ Aguamate Organic – это доказанная органическая суш
                 Для питья мате традиционно используется калабас и бомбилья.
 		</way>
                 <photo>
-                <img src="files/ma6.jpg" class="teaphoto"/>
+                <img src="../files/ma6.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 мате
@@ -8182,10 +8162,10 @@ Aguamate Organic – это доказанная органическая суш
                 Для питья мате традиционно используется калабас и бомбилья.
 		</way>
                 <photo>
-                <img src="files/ma7.jpg" class="teaphoto"/>
+                <img src="../files/ma7.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 мате
@@ -8209,10 +8189,10 @@ Playadito Desplada sin Palo содержит небольшое количест
                 Для питья мате традиционно используется калабас и бомбилья.
 		</way>
                 <photo>
-                <img src="files/ma8.jpg" class="teaphoto"/>
+                <img src="../files/ma8.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 мате
@@ -8236,10 +8216,10 @@ Playadito Desplada sin Palo содержит небольшое количест
                 Для питья мате традиционно используется калабас и бомбилья.
 		</way>
                 <photo>
-                <img src="files/ma9.jpg" class="teaphoto"/>
+                <img src="../files/ma9.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 мате
@@ -8262,10 +8242,10 @@ Playadito Desplada sin Palo содержит небольшое количест
                 Для питья мате традиционно используется калабас и бомбилья.
 		</way>
                 <photo>
-                <img src="files/ma10.jpg" class="teaphoto"/>
+                <img src="../files/ma10.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 мате
@@ -8290,10 +8270,10 @@ Playadito Desplada sin Palo содержит небольшое количест
                 Для питья мате традиционно используется калабас и бомбилья.
 		</way>
                 <photo>
-                <img src="files/ma11.jpg" class="teaphoto"/>
+                <img src="../files/ma11.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 мате
@@ -8316,10 +8296,10 @@ Playadito Desplada sin Palo содержит небольшое количест
                 Для питья мате традиционно используется калабас и бомбилья.
 		</way>
                 <photo>
-                <img src="files/ma12.jpg" class="teaphoto"/>
+                <img src="../files/ma12.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 мате
@@ -8344,10 +8324,10 @@ Playadito Desplada sin Palo содержит небольшое количест
                 Для питья мате традиционно используется калабас и бомбилья.
 		</way>
                 <photo>
-                <img src="files/ma13.jpg" class="teaphoto"/>
+                <img src="../files/ma13.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 мате
@@ -8370,10 +8350,10 @@ Playadito Desplada sin Palo содержит небольшое количест
                 Для питья мате традиционно используется калабас и бомбилья.
 		</way>
                 <photo>
-                <img src="files/ma14.jpg" class="teaphoto"/>
+                <img src="../files/ma14.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 мате
@@ -8397,10 +8377,10 @@ Playadito Desplada sin Palo содержит небольшое количест
                 Для питья мате традиционно используется калабас и бомбилья.
 		</way>
                 <photo>
-                <img src="files/ma15.jpg" class="teaphoto"/>
+                <img src="../files/ma15.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 мате
@@ -8435,10 +8415,10 @@ Playadito Desplada sin Palo содержит небольшое количест
                 Хорошо держит вкус на протяжении 4-6 проливов.
 			    </way>
                 <photo>
-                <img src="files/taiw2.jpg" class="teaphoto"/>
+                <img src="../files/taiw2.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -8466,10 +8446,10 @@ Playadito Desplada sin Palo содержит небольшое количест
 – Заваривается на протяжении 8-10 проливов.
 			    </way>
                 <photo>
-                <img src="files/taiw3.jpg" class="teaphoto"/>
+                <img src="../files/taiw3.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -8495,10 +8475,10 @@ Playadito Desplada sin Palo содержит небольшое количест
 – Заваривается на протяжении 8-10 проливов.
 			    </way>
                 <photo>
-                <img src="files/taiw4.jpg" class="teaphoto"/>
+                <img src="../files/taiw4.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -8529,10 +8509,10 @@ Playadito Desplada sin Palo содержит небольшое количест
                 Заваривается без потери вкуса на протяжении 7-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/taiw5.jpg" class="teaphoto"/>
+                <img src="../files/taiw5.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -8565,10 +8545,10 @@ Playadito Desplada sin Palo содержит небольшое количест
                 Хорошо держит вкус на протяжении 6-7 проливов.
 			    </way>
                 <photo>
-                <img src="files/taiw6.jpg" class="teaphoto"/>
+                <img src="../files/taiw6.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -8599,10 +8579,10 @@ Playadito Desplada sin Palo содержит небольшое количест
                 Хорошо держит вкус на протяжении 8-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/taiw7.jpg" class="teaphoto"/>
+                <img src="../files/taiw7.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -8635,10 +8615,10 @@ Playadito Desplada sin Palo содержит небольшое количест
                 Хорошо держит вкус на протяжении 8-9 проливов.
 			    </way>
                 <photo>
-                <img src="files/taiw8.jpg" class="teaphoto"/>
+                <img src="../files/taiw8.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -8672,10 +8652,10 @@ Playadito Desplada sin Palo содержит небольшое количест
 			    Отлично держит вкус на протяжении 10-12 проливов.
 			    </way>
                 <photo>
-                <img src="files/taiw9.jpg" class="teaphoto"/>
+                <img src="../files/taiw9.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -8704,10 +8684,10 @@ Playadito Desplada sin Palo содержит небольшое количест
                 Отлично сохраняет вкус на протяжении 7-8 проливов.
 			    </way>
                 <photo>
-                <img src="files/taiw10.jpg" class="teaphoto"/>
+                <img src="../files/taiw10.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -8738,10 +8718,10 @@ Playadito Desplada sin Palo содержит небольшое количест
                 Хорошо держит вкус на протяжении 7-8 проливов.
 			    </way>
                 <photo>
-                <img src="files/taiw11.jpg" class="teaphoto"/>
+                <img src="../files/taiw11.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -8775,10 +8755,10 @@ Playadito Desplada sin Palo содержит небольшое количест
 			    Отлично держит вкус на протяжении 10-12 проливов.
 			    </way>
                 <photo>
-                <img src="files/taiw9.jpg" class="teaphoto"/>
+                <img src="../files/taiw9.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -8815,10 +8795,10 @@ Playadito Desplada sin Palo содержит небольшое количест
 			    Отлично держит вкус на протяжении 10-12 проливов.
 			    </way>
                 <photo>
-                <img src="files/ggaba1.jpg" class="teaphoto"/>
+                <img src="../files/gaba1.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -8849,10 +8829,10 @@ Playadito Desplada sin Palo содержит небольшое количест
 			    Отлично держит вкус на протяжении 10-12 проливов.
 			    </way>
                 <photo>
-                <img src="files/ggaba2.jpg" class="teaphoto"/>
+                <img src="../files/ggaba2.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -8883,10 +8863,10 @@ Playadito Desplada sin Palo содержит небольшое количест
 			    Отлично держит вкус на протяжении 10-12 проливов.
 			    </way>
                 <photo>
-                <img src="files/gaba3.jpg" class="teaphoto"/>
+                <img src="../files/gaba3.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -8919,10 +8899,10 @@ Playadito Desplada sin Palo содержит небольшое количест
 			    Отлично держит вкус на протяжении 10-12 проливов.
 			    </way>
                 <photo>
-                <img src="files/gaba4.jpg" class="teaphoto"/>
+                <img src="../files/gaba4.jpg" class="teaphoto"/>
                 </photo>
                 <ispresent>
-                <img src="files/present.png"/>
+                <img src="../files/present.png"/>
                 </ispresent>
                 <sec>
                 тайваньские улуны
@@ -8930,4 +8910,145 @@ Playadito Desplada sin Palo содержит небольшое количест
             </item>
         </gaba>
 </tea>
+<articles>
+<article>
+<name>О нас</name>
+<photo><img class = "imgg" src="../files/art1.jpg"/></photo>
+<contents>
+<h2>Tea Toad, Чайная жабка</h2>
+<span> Tea Toad - это магазин качественного китайского чая, который в первую очередь нацелен на то, чтобы вы, как покупатель получили наилучший чай, который вам искренне понравится </span>
+<img src="files/ad1.jpg" style="width:90%; margin-top:50px; margin-left:5%"/>
+<span>Именно для этой цели мы и собрали нашу чайную команду, которая работает день и ночь в поисках и доставке качественного чая прямиком из Китая</span>
+<h1>Главное - опыт</h1>
+<span>Приходите в нашу чайную, пробуйте, делитесь впечатлениями, и плывите на одной волне с чаем.</span>
+</contents>
+</article>
+<article>
+<name>Чай оптом</name>
+<photo><img class = "imgg" src="../files/art2.jpg"/></photo>
+<contents>
+
+<h1>Преимущества Tea Tead</h1>
+<span>
+• Бесплатная доставка по Беларуси при заказе от 100 BYN<br/>
+
+• Чай и чайная посуда напрямую от поставщиков наценок<br/>
+
+• Помогаем составить чайную карту для вашего бизнеса с учетом всех ваших пожеланий<br/>
+
+• Доставляем чай и посуду по всему миру<br/>
+
+• Организация больших поставок по предзаказу напрямую из Китая для крупных клиентов<br/>
+</span>
+<h2>Оставьте заявку на прайс</h2>
+<span>Свяжитесь с менеджером, изучите наш прайс. Он поможет сделать заказ быстро, выгодно и удобно.<br/></span>
+<h1>Контакты</h1>
+<span>Телеграм, +375 (29) 225-82-44
+
+Email: paveldzibuk@gmail.com</span>
+<img src="files/ad.jpg" style="width:90%; margin-top:50px; margin-left:5%"/>
+</contents>
+ </article>
+ 
+<article>
+<name> Доставка и оплата </name>
+<photo><img class = "imgg" src="../files/art3.jpg"/></photo>
+<contents> 
+<h1> Доставка и оплата </h1>
+<span> Если вы сделали заказ в нашем магазине, существует несколько способов забрать его: <br/>
+• Самовывозом по адресу Брест, ул Советская 34                  <br/>Бесплатно<br/><br/>
+• Доставка в отделение белпочты                                 <br/>6р.<br/><br/>
+• Доставка в отделение европочты                                <br/>5р.<br/><br/>
+• Доставка курьером прямо до вашей двери                               <br/>договорная
+ </span>
+ <h1>Система скидок</h1>
+ <span>
+При заказе от 100 рублей доставка в отделение почты за наш счёт<br/>
+При заказе от 200 рублей скидка на заказ составляет 5%<br/>
+При заказе от 400 рублей скидка на заказ составляет 10%<br/>
+ </span>
+ <h1>Оплата</h1>
+ <span>Мы принимаем оплату системами оплаты "Visa" "Mastercard" "Мир"<br/> так же платёж можно совершать через систему "ЕРИП"<br/> При доставке в отделение почты вы можете оплатить используя наложенный платёж<br/> Другие варианты — по предварительной договоренности.<br/></span>
+ <h3>После оформления заказа мы обязательно свяжемся с вами и уточним детали</h3>
+</contents>
+ </article>
+ 
+<article>
+<name>Белый чай</name>
+<photo><img class = "imgg" src="../files/art4.jfif"/></photo>
+<contents>
+<h1>Что такое белый чай.</h1>
+<span>
+Белый чай (Бай Ча) – одна из разновидностей традиционного китайского чая, который в процессе приготовления практически не подвергается обработке. Степень ферментации в нем не превышает 5-7%. В какой-то мере его даже можно обозвать «чайным гербарием», так как его не сминают во время готовки. Да и вообще процесс приготовления, как и у зеленого чая, не превышает сутки. А сама технологическая цепочка даже еще короче. Однако несмотря на это уж очень много тонкостей и нюансов необходимо учитывать, чтобы получился качественный и вкусный белый чай.
+</span>
+<img src="../files/bai-cha-1.jpg" style="width:90%; margin-top:50px; margin-left:5%"/>
+
+<h1>
+Как заваривать белый чай
+</h1>
+<span>Одним из способов заваривания белого чая является Пин Ча – чаепитие проливом. Для этого процесса лучше всего подойдет посуда из фарфора с тонкими стенками иле стекла. Однако для заваривания юньнаньских сортов прекрасно подойдет и глиняная посуда, а также толстостенный фарфор. Воду лучше всего использовать 80-85*С, для юньнаньских можно поднять до 85-90*С. На одно чаепитие необходимо от 3 до 6 гр. чая для посуды объемом 100 мл. Время заваривания каждого пролива может варьироваться от 5 до 15 секунд, в зависимости от сорта, с последующим увеличением экспозиции на 3-5 секунд. Хороший чай легко выдержит 7-10 проливов.
+
+Еще один способ заваривания, который часто встречается – это варка чая на открытом огне (по методу Лу Юя). Данный метод очень интересно раскрывает весь букет чая целиком. Однако большое количество нюансов, которые необходимо учитывать, делают эту процедуру относительно сложной. Но всё же стоит ощутить всё великолепие игры вкусов.</span>
+<h1>
+Органолептика белого чая. Вкус, аромат
+</h1>
+<span>
+Как говорят сами китайцы о белом чае: «Белый как облачко, зеленый как мечта, чистый как снег, ароматный как орхидея». И они совершенно правы. Аромат и вкус белого чая невозможно перепутать ни с чем другим. Они поистине уникальны и восхитительны. Однако для того, чтобы в полной мере оценить этот чай и ощутить всю палитру нот и оттенков, необходимо быть очень внимательным и чутким. Белый чай – он для ценителей легкого и невесомого, объемного и вдохновляющего. В нем собрано разнообразие цветочных, медовых, травяных, фруктовых, древесных оттенков, которые отлично прослеживаются как в аромате, так и во вкусе.
+В каких-то моментах можно найти схожесть с зелеными чаями, однако даже эта «одинаковость будет отличаться. И в этом вся прелесть белого чая. Он для наслаждения переливами нот, для неспешного потягивания и удовольствия.
+</span>
+ </contents>
+ </article>
+ 
+<article>
+<name>Матча</name>
+<photo><img class = "imgg" src="../files/art5.jpg"/></photo>
+<contents>
+<h1>Матча</h1>
+<span>Маття - самый древний японский сорт чая, традиция употребления которого практически без изменений пришла к нам из Сунской эпохи. В качестве сырья для маття берут первые весенние флеши - почки и нежные листики. За три недели до сбора чайные кусты затеняют, ограничивая доступ прямых солнечных лучей, чтобы увеличить содержание полезной аминокислоты L-теанина. 
+
+Зеленый чай содержит четыре основных катехина, а именно: эпикатехин (EC), эпикатехин-3-галлат (ЭCG), эпигаллокатехин (EGC) и эпигаллокатехин-3-галлат (EGCG), из которых последний является наиболее активным и распространенным, а матча - их лучшим концентрированным источником.
+
+Благодаря уникальному химическому составу и ценному вкусу, которые отличают его от других чайных напитков, матча считается чаем высочайшего качества. Его оздоровительные свойства объясняются высоким содержанием антиоксидантных и противовоспалительных веществ. Исследования, подтверждающие высокий антиоксидантный потенциал чая матча, утверждают, что этот эффект  происходит из-за значительного содержания катехинов, типа фенольных соединений, благотворно влияющих на здоровье человека.  Благодаря его способности предотвращать многие заболевания и поддерживать когнитивные функции, регулярное употребление чая матча может положительно сказаться как на физическом, так и на психическом здоровье.
+
+Целью этого обзора было собрать информацию о пользе чая матча для здоровья.
+Это первый подобный обзор, в котором систематически представлены основные биологически активные соединения чая матча. </span>
+ </contents>
+ </article>
+
+<article>
+        <name>Чайная церемония</name>
+        <photo><img class = "imgg" src="../files/art6.jpg"/></photo>
+        <contents>
+        <h2>О чайных церемониях для новичков и мастеров</h2>
+            <span>"А можно нам чайную церемонию?" — один из самых частых вопросов в Чайной Комнате. Вы пришли в первый раз, слышали про китайский чай и считаете церемонией всё, где задействованы дорогие чаи с незапоминающимися названиями, маленькая посуда и специально обученный человек. Может быть, вы даже прочитали о церемониях пин ча, гунфу ча и варке чая. Но есть простое чаепитие, а есть чайная церемония, и мы не любим, когда их путают. Чтобы рассказать об отличиях и нюансах, пришлось с головой влезть в историю, а там как всегда всё непросто и неясно. Давайте разбираться.
+
+                Пин ча — это дегустация чая или попросту чаепитие. Здесь используется китайская посуда — чайник или гайвань, чахай, чахэ и пиалы. Вам могут заваривать чай на протяжении всего чаепития или, как это у нас, показать, что к чему, и оставить наедине с чаем. Здесь нет ничего церемониального, главный акцент делается на чай — попробовать, оценить, насладиться. В Китае никто не назовет это церемонией, так же как в 18 веке никто не называл церемонией самоварное чаепитие с бубликами.
+                
+                Варка чая — это чай, сваренный на огне в прозрачном чайнике или в сифоне. Этот процесс часто называют варкой по методу Лу Юя, хотя от Лу Юя тут осталось одно название. Чаще всего варят пуэр, но можно сварить любой чай, кроме зеленого и улуна.
+                
+                Гунфу ча — это церемония с мастером в красивых традиционных одеждах, музыкой и свечами. Мастер заваривает плавными округлыми жестами, рассказывает легенды о чае, а вы пьете улун из чайных пар в благоговейной тишине. И вот здесь начинается самое интересное.
+                
+                Считается, что церемония пришла к нам из Китая, и в каждом китайском чайном доме пьют чай именно так. Но гунфу ча переводится с китайского как высшее чайное мастерство, и это как чайная магистратура, в которой изучают все аспекты чайного дела: общие знания, процесс производства, как заваривать чай. Церемонию используют только в особых случаях — на официальных мероприятиях, показательных выступлениях — этакий национальный колорит, как у нас кокошники, медведи и вышиванки. Такая церемония называется Ча Дао.</span>
+            <h3>История и нюансы</h3>
+            <span>Считается, что чайная церемония появилась в императорских кругах во времена, когда не было гугла и архивов, поэтому сейчас источники указывают на совершенно разные даты. Скорее всего, это произошло во времена Лу Юя — около 780 года. В 1191 году ее переняли японцы. Дальше развитие китайских и японских церемоний пошло разными дорожками. В Китае в чаепроизводящих провинциях открывались чайные школы, где каждый мастер придумывал свои аспекты церемонии. Поэтому с каждым годом подача чая всё усложнялась, а единая картина, как в Японии, никак не складывалась. Но здесь есть нестыковки.
+
+                Конечно, императоры пили чай в то время, и вряд ли им подавали чай так же, как и простым смертным. Но если мы обратимся к Чайному Канону Лу Юя, то увидим, что там идет речь о варке порошкового чая, причем с солью. Да, вам понадобится 25 предметов, но это не лопаточки и полотенчики, а сетка, ролик и подпорка. В привычном для нас виде, с обязательно листовым чаем вместо порошка, Ча Дао впервые упоминается только при династии Цин (1644-1911), но по форме это не современная чайная церемония.
+                
+                Несмотря на долгую историю чая как напитка, церемония не стала привычным и повседневным явлением. В 18 веке китайский писатель и гурман Юань Мэй и чиновник Юй Цзяо с удивлением описывали чаочжоускую церемонию, которую они видели впервые. То, что передавалось от мастера к ученику в Фуцзяни и Чаочжоу, было совершенно неизвестно на севере Китая. Поэтому говорить о единой общеизвестной древней китайской церемонии не приходится. Лу Юй 20 века — уроженец Чаочжоу Вэн Хуэйдун написал в 1957 году трактат о гунфу ча, где описал последовательность подготовки чайной утвари и заваривания. Простая брошюра рассказывала, как правильно заварить чай, но не рассматривала расположение предметов или движения рук чайного мастера. Трактат не получил большой популярности среди простых китайцев, церемонии оставались местечковым делом избранных.
+                
+                Чайная культура нуждалась в развитии и популяризации, поэтому в 70-х годах ХХ века появилось Ча И — искусство приготовления, пития и сервировки чая без лишних движений и инструментов. Основная идея — передать суть чая через естественную красоту. Тайваньцы придумали Ча И, чтобы внести эстетику в питье чая и создать чайные комнаты нового уровня, без пошлости и суеты старых. К тому времени под маской чайных часто скрывались игорные или публичные дома. Новое название также отделяло ее от японской церемонии Ча До.
+                
+                Простота не длится долго. В 80-е годы распространяются чайные пары и чахай, который на Тайване называется гундаобэй — так тайваньцы ритуализируют питье улунов. Китайские власти увидели туристический и рекламный потенциал чайной церемонии, и она продолжила развитие в плане зрелищности. В 2002 году мастер Цай написал еще одно руководство с инструкциями, как практическими, так и эстетическими, вплоть до того как высоко держать чайник над сливником. Так китайская чайная церемония наконец-то обрела единые черты, хотя общие особенности не исключают провинциальных различий.
+                
+                Сейчас параллельно развиваются два общих направления — Ча Дао как пышная церемония, возможно, даже с танцем, для иностранных гостей и как шоу-программа; и Ча И — упрощенная версия, чтобы за соблюдением ритуалов не терялось ощущение вкуса, аромата и состояния от самого чая. Ча И распространена в Китае более широко.</span>
+            <h3>Русско-китайская чайная церемония</h3>
+            <span>
+                Китайская культура пришла в русскоговорящее пространство через Бронислава Виногродского в конце 90-х. Талантливый китаевед сумел синтезировать знания о чае, придумать новые смыслы и ритуалы и распространить их под соусом древней чайной культуры. Надеемся, что все предыдущие абзацы показали, что древней китайской чайной культуры со строгими правилами не существует. И потому не стоит отстаивать привычный ритуал как аутентичный китайский или бездумно их копировать. Например, чайные мастера, даже мужчины, частенько поддерживают одну руку другой. В Китае таким образом придерживают широкий рукав традиционного платья, чтобы он не попал в чай.
+
+                Согласно учению, во время чайной церемонии нельзя есть, курить, разговаривать не о высоком, а надо молчать и слушать легенды о чае, потому что это древняя традиция. Но эти запреты были придуманы русской чайной школой, и в Китае о них даже не задумываются.
+            </span>
+        </contents>
+</article>
+
+</articles>
 </all>
